@@ -1,0 +1,1797 @@
+{
+  "total_paragraphs": 448,
+  "paragraphs": [
+    {
+      "index": 0,
+      "text": "Techno-economic and environmental impact of transportation in business sector:building an AI-assisted multi-criteria decision tool"
+    },
+    {
+      "index": 1,
+      "text": "Transportation Systems Doctoral Program"
+    },
+    {
+      "index": 2,
+      "text": "Thesis Project"
+    },
+    {
+      "index": 3,
+      "text": "João Garcia Pinto Oliveira"
+    },
+    {
+      "index": 4,
+      "text": "Supervisor: Marta Campos Ferreira"
+    },
+    {
+      "index": 5,
+      "text": "Co-supervisor: Adélio Magalhães Mendes"
+    },
+    {
+      "index": 6,
+      "text": "Co-supervisor: Francisco Paiva"
+    },
+    {
+      "index": 7,
+      "text": "Abril 2026"
+    },
+    {
+      "index": 8,
+      "text": "Content"
+    },
+    {
+      "index": 9,
+      "text": "Contents"
+    },
+    {
+      "index": 10,
+      "text": "Content2"
+    },
+    {
+      "index": 11,
+      "text": "0Contents2"
+    },
+    {
+      "index": 12,
+      "text": "1.Background and Context3"
+    },
+    {
+      "index": 13,
+      "text": "1.1The \"Wicked Problem\" of Sustainable Transport3"
+    },
+    {
+      "index": 14,
+      "text": "1.2The Methodological Crisis: Data Deluge vs. Holistic Vision7"
+    },
+    {
+      "index": 15,
+      "text": "1.3The AI Opportunity: From Probabilistic Risk to Reliable Knowledge Paths8"
+    },
+    {
+      "index": 16,
+      "text": "1.4Research Objectives and the Decision-Making Framework8"
+    },
+    {
+      "index": 17,
+      "text": "2.LITERATURE REVIEW9"
+    },
+    {
+      "index": 18,
+      "text": "2.1The Evolving Energy Landscape for Transportation9"
+    },
+    {
+      "index": 19,
+      "text": "2.1.1Alternative Fuels and Energy Carriers9"
+    },
+    {
+      "index": 20,
+      "text": "2.1.2Fundamental Sciences: The Hard Constraints10"
+    },
+    {
+      "index": 21,
+      "text": "2.2FRAMEWORKS FOR EVALUATION AND DECISION MAKING11"
+    },
+    {
+      "index": 22,
+      "text": "2.2.1The Limitations of Static Frameworks11"
+    },
+    {
+      "index": 23,
+      "text": "2.2.2Operations Research in Fleet Management12"
+    },
+    {
+      "index": 24,
+      "text": "2.3SCIENTIFIC MULTIDISCIPLINARY CONTEXT AND AI: THE CORE SYNERGY12"
+    },
+    {
+      "index": 25,
+      "text": "2.3.1The Imperative of Multidisciplinarity in Transport Systems12"
+    },
+    {
+      "index": 26,
+      "text": "2.3.2The Data Deluge: Rate of Growth of Scientific Publications12"
+    },
+    {
+      "index": 27,
+      "text": "2.3.3Enhancing Knowledge Synthesis via AI13"
+    },
+    {
+      "index": 28,
+      "text": "2.4Towards Holistic and Actionable Knowledge: The Data-to-Operations Gap13"
+    },
+    {
+      "index": 29,
+      "text": "3.RESEARCH METHODOLOGY AND PLAN14"
+    },
+    {
+      "index": 30,
+      "text": "3.1THE EPISTEMIC TRAJECTORY: PRELIMINARY WORK AND PUBLICATIONS15"
+    },
+    {
+      "index": 31,
+      "text": "3.2DSAiVE Framework Architecture15"
+    },
+    {
+      "index": 32,
+      "text": "3.2.1The Dynamic Bundle: From Search to Synthesis16"
+    },
+    {
+      "index": 33,
+      "text": "3.2.2Structured Extraction Pipeline16"
+    },
+    {
+      "index": 34,
+      "text": "3.3Applied Methodology: Validating the Epistemic Compiler17"
+    },
+    {
+      "index": 35,
+      "text": "3.3.1Exploratory Validation: The Methanol Case Study17"
+    },
+    {
+      "index": 36,
+      "text": "3.3.2Robustness Validation: The SDG Expert Survey18"
+    },
+    {
+      "index": 37,
+      "text": "3.3.3Evaluating Epistemic Risk: Beyond Surface Metrics18"
+    },
+    {
+      "index": 38,
+      "text": "3.3.4Reasoning vs. Retrieval: DeepSearch, RAG, and the \"Stochastic Parrot\".18"
+    },
+    {
+      "index": 39,
+      "text": "3.3.5Measuring Semantic Drift: The LLM Thread Categorised History Report19"
+    },
+    {
+      "index": 40,
+      "text": "3.3.6Validating the \"Compass\": How LLM-based Exploration vs Deterministic Validation Creates Trust19"
+    },
+    {
+      "index": 41,
+      "text": "3.3.7Managing the \"Long Tail\": The Necessity of Hybrid Semantic-Lexical Retrieval20"
+    },
+    {
+      "index": 42,
+      "text": "4.APPLIED FLEET OPTIMIZATION (THE UPK TESTBED)20"
+    },
+    {
+      "index": 43,
+      "text": "4.1Fleet Reconciliation & Physics Sandbox: The \"26 L/100km Illusion\"21"
+    },
+    {
+      "index": 44,
+      "text": "4.2Tri-State Strategic Routing and TCO Integration21"
+    },
+    {
+      "index": 45,
+      "text": "4.3Spatial Analysis: The Range Replenishment Capacity (RRC) Map22"
+    },
+    {
+      "index": 46,
+      "text": "5.EXPECTED RESULTS AND CONCLUSIONS22"
+    },
+    {
+      "index": 47,
+      "text": "5.1Research Plan and Deliverables23"
+    },
+    {
+      "index": 48,
+      "text": "5.223"
+    },
+    {
+      "index": 49,
+      "text": "5.3Funding and Acknowledgements24"
+    },
+    {
+      "index": 50,
+      "text": "6.References24"
+    },
+    {
+      "index": 51,
+      "text": "Background and Context"
+    },
+    {
+      "index": 52,
+      "text": "The \"Wicked Problem\" of Sustainable Transport"
+    },
+    {
+      "index": 53,
+      "text": "The transition to sustainable transportation is not merely a technological switch. It is a complex systemic challenge, a \"Wicked Problem\", requiring a holistic understanding of interconnected economic, environmental, technical, social, and policy factors. The primary motivation of this research is the urgent need to structure a decision-making framework for alternatives to fossil fuels, given that the transportation sector remains a major contributor to global CO2 emissions."
+    },
+    {
+      "index": 54,
+      "text": "The finite nature of fossil carbon reserves poses no imminent risk, given their vast scale and the centuries required for depletion. A much more urgent problem is the ever-increasing CO2 concentration in the atmosphere, which threatens life on our planet much sooner."
+    },
+    {
+      "index": 55,
+      "text": "Figure 1 - Atmospheric CO2 and Earth's surface temperature (1880-2019) [141]"
+    },
+    {
+      "index": 56,
+      "text": "After 4500 million years running an optimisation algorithm, nature chose to produce hydrogen (H2) from water splitting – photosynthesis – but not to store or use it [1][8]; nature chose to produce H2 and immediately convert it into biomolecules. Global warming has become an empirical reality, supported by extensive observational data [12]. A century has passed since the publication of the first climate prediction model [13], followed 16 years later by the article by GS Callendar (1938) [14]. This seminal paper linked climate change directly to anthropogenic carbon dioxide production. Despite growing attention from researchers and policymakers, it did not gain prominence in public opinion until the last few decades, raising society's awareness of the urgency of the matter. Although behavioral adjustments are desirable, over half of all anthropogenic greenhouse gas emissions have occurred in the last 30 years, with no signs of a trend reversal."
+    },
+    {
+      "index": 57,
+      "text": "In the Treaties of Paris (1951) and Rome (1957), specific institutional provisions were made only for the coal and nuclear industries, while for oil, gas, and renewable energy sources, each EU Member State was free to set its national energy policies [20]. Since then, Europe has been a leading driver for sustainability policies. In March 2007, the European Council agreed, for the very first time, on an “integrated climate and energy policy,” including an Energy Action Plan for the years 2007- 2009. The European Union set a target to increase the share of renewables in energy use to 20% by 2020 [21], [22]."
+    },
+    {
+      "index": 58,
+      "text": "The diagram illustrates a carbon cycle involving photosynthesis, CO2 absorption, geological processes, energy production, and fossil fuel consumption, with various time scales for each process."
+    },
+    {
+      "index": 59,
+      "text": "As illustrated in Figure 1, a critical and often-overlooked dimension of this transition is Time. There is a massive temporal mismatch between the geologic processes that form fossil fuels (106-108 years) and the rapid rate at which they are combusted. Achieving climate goals requires shifting to low-carbon cycles (e.g., photosynthetic production or synthetic refining) that operate on human timescales (10-2 to 10-5 years). Furthermore, time is an essential parameter in business operations, particularly for refuelling, charging, and transportation logistics."
+    },
+    {
+      "index": 60,
+      "text": "Figure 13 - Important criteria to be included in prompt [113]"
+    },
+    {
+      "index": 61,
+      "text": "As shown in Figure 2, viable alternative fuels must satisfy five core criteria: (1) Carbon neutrality to ensure environmental stability, (2) Compatibility with existing engines, (3) Compatibility with existing infrastructure, (4) Reliable supply of feedstock, and (5) Financial viability."
+    },
+    {
+      "index": 62,
+      "text": "In response to these pressing challenges, the European Parliament implemented the European Climate Law, formalising a commitment to achieving climate neutrality by 2050 and mandating a minimum 55% reduction in net greenhouse gas emissions by 2030 [4], [5]. However, policy decisions in this arena carry immense social and economic weight. For example, the EU’s initial mandate to phase out internal combustion engines (ICE) by 2035 sparked significant debate [6]. Industry leaders, such as former Stellantis CEO Carlos Tavares, warned that imposing specific technologies (such as electric vehicles) without defining broader goals risks severe social disruption and ignores the social dimension of the automotive industry [7]."
+    },
+    {
+      "index": 63,
+      "text": "This concern is echoed throughout the academic and policy literature, which warns that neglecting social factors such as affordability, employment, and equity can lead to policy failure and perpetuate inequality [Pye et al. 2008; Mearns and Norton 2010]."
+    },
+    {
+      "index": 64,
+      "text": "To bridge this gap between academic knowledge and the political/corporate decision-making processes that ultimately impact social life, this PhD program integrates a formal non-academic partnership. By focusing on practical business problems and leveraging the candidate's past entrepreneurial and business management experience, this research ensures that theoretical sustainability models are grounded in operational reality."
+    },
+    {
+      "index": 65,
+      "text": "The Methodological Crisis: Data Deluge vs. Holistic Vision"
+    },
+    {
+      "index": 66,
+      "text": "Understanding the demand side and how to substitute fossil fuels is essential. The transportation sector has the highest reliance on fossil fuels of any end-use sector [53]. Energy availability in geographically variable areas requires direct fuel supply to vehicles, which explains why fossil fuels are so difficult to replace in this domain."
+    },
+    {
+      "index": 67,
+      "text": "While the adoption of electric vehicles (EVs) has accelerated [57], the transition faces distinct technical and logistical barriers, including energy density, geographical variability, infrastructure requirements, EV lifecycle emissions [58], and battery supply chain issues [62]."
+    },
+    {
+      "index": 68,
+      "text": "The diagram illustrates a variety of interconnected research areas including energy, environmental technologies, and advanced materials, highlighting collaborations and common themes such as energy efficiency and renewable energy sources."
+    },
+    {
+      "index": 69,
+      "text": "The Elsevier 2021 report, “Pathways to Net Zero: The Impact of Clean Energy Research” [9], provides an appealing visual overview of this complexity using data mining techniques. It highlights the complex search for alternatives to fossil fuels, highlighting the high multidisciplinarity (collaboration among co-authors) and interdisciplinarity (diversity of disciplines) required to address these challenges."
+    },
+    {
+      "index": 70,
+      "text": "However, this complexity creates a methodological crisis. The exponential growth of scientific publications creates a \"Data Deluge.\" A traditional Systematic Literature Review (SLR) becomes outdated before it is even finished. Researchers are typically forced into a false choice: either narrow their scope (losing the systemic view required for complex fleet management) or drown in data. Current decision-making often struggles with this dual need for broad systemic understanding and deep domain-specific knowledge."
+    },
+    {
+      "index": 71,
+      "text": "The crisis is not only quantitative. The energy transition has outgrown the vocabulary used to manage it: the fleet manager's question is no longer “which fuel?” but “which way of putting range into a vehicle?”, and there is no single category word for the answer, since “fuel” excludes battery charging and “energy carrier” names the vector rather than the act of supplying a vehicle. The consequences are operational, not linguistic. Established metrics inherit the broken category: “refuelling time” presumes a fuel, and infrastructure statistics count installed kilowatts where a fleet operator needs deliverable kilometres per stop. Even vector representations of meaning, which place words of similar usage close together, may inherit the same distortion, because they are trained on the very language in which the category is missing. This gap is developed as a literature finding in Section 2.1.1, motivates the redefinition of replenishment metrics in Section 4.3, and defines the first planned validation pilot of the Semantic Drift programme (Section 3.3.5)."
+    },
+    {
+      "index": 72,
+      "text": "The AI Opportunity: From Probabilistic Risk to Reliable Knowledge Paths"
+    },
+    {
+      "index": 73,
+      "text": "This research positions Artificial Intelligence (AI) as a systematic tool to navigate this multidisciplinary complexity. The choice of this subject occurred before the advent of modern Generative AI, when discerning valuable information from the enormous number of daily publications was already highly complex."
+    },
+    {
+      "index": 74,
+      "text": "The advent of Generative AI introduces new challenges: it is not straightforward to distinguish helpful information from \"garbage,\" considering that available tools often lack transparency. Paradoxically, as the Digital Era offers endless data and powerful AI, well-informed decisions remain complex."
+    },
+    {
+      "index": 75,
+      "text": "To overcome the limitations of traditional SLRs, this research investigated Retrieval-Augmented Generation (RAG) and semantic similarity. While this probabilistic approach offered a way to restructure knowledge systematically, it also introduced inherent risks, such as hallucinations and the \"Stochastic Parrot\" phenomenon, in which AI generates plausible but factually incorrect statements."
+    },
+    {
+      "index": 76,
+      "text": "The core thesis of this work is that the probabilistic nature of Generative AI is not a fatal flaw, but an opportunity, provided it is properly constrained. By applying deterministic validation layers, we can harness AI to restructure vast amounts of knowledge into a reliable, \"human-handlable\" format. This framework leverages the probabilistic capabilities of Generative AI, paired with deterministic verification, to construct reliable decision pathways."
+    },
+    {
+      "index": 77,
+      "text": "Research Objectives and the Decision-Making Framework"
+    },
+    {
+      "index": 78,
+      "text": "Integrating science data, grounded in chemical and thermodynamic fundamentals, with quantitative and qualitative data from stakeholders is required to build a dynamic multi-criteria decision analysis tool for transport systems. We propose a business-oriented approach to facilitate knowledge transfer, bridging the gap between academic theory and high-TRL (Technology Readiness Level) operational reality, supported by Artificial Intelligence tools."
+    },
+    {
+      "index": 79,
+      "text": "A core intuition developed during this research is that the probabilistic nature of AI does not inherently enforce the epistemology of scientific knowledge. When an AI model relies solely on statistical next-token prediction without structural constraints, it frequently deviates from the user's intent or the strict laws of physics, a phenomenon this work defines as Semantic Drift."
+    },
+    {
+      "index": 80,
+      "text": "Within the context of a Transport Systems doctoral program, the integration of Artificial Intelligence is therefore not a diversion from the core domain, but rather an advanced methodological approach to tackle its inherent complexities by mitigating this drift."
+    },
+    {
+      "index": 81,
+      "text": "Three constraints unify every artifact developed in this thesis: time, location, and information under scarcity, hereafter the scarcity triad. The triad governs fleet operations directly, since vehicles, fuel, chargers, and driver hours are finite and unevenly located. It equally governs the research process that supports those operations: the data deluge is a scarcity of cognitive capacity relative to publication volume, and AI-assisted synthesis operates under computational quota. Temporal scarcity binds twice: energy replenishment takes time, and decisions themselves have deadlines, since a correct fuel choice delivered after the procurement window has closed is operationally worthless. Each subsequent chapter addresses at least two of the three dimensions, and the framework proposed here is, in essence, a method for making reliable transport decisions when all three bind simultaneously."
+    },
+    {
+      "index": 82,
+      "text": "Main Objective:To develop and validate a dynamic, AI-enhanced knowledge structuring framework that safely translates multidisciplinary inputs into hard constraints, to support operational Transport Systems decision-making for fuel and energy-supply selection."
+    },
+    {
+      "index": 83,
+      "text": "Specific Objectives:"
+    },
+    {
+      "index": 84,
+      "text": "To map the complex transport ecosystem and alternative fuels (e.g., methanol, hydrogen, electricity) through the systematic structure of extensive academic literature."
+    },
+    {
+      "index": 85,
+      "text": "To identify operational and technology-specific constraints from the literature using a structured data-extraction pipeline."
+    },
+    {
+      "index": 86,
+      "text": "To formally define the neurosymbolic architecture (a design pairing a probabilistic language model with a rule-based mathematical validator) of the knowledge-structuring compiler (DSAiVE) and its deterministic validation layers."
+    },
+    {
+      "index": 87,
+      "text": "To validate the framework’s efficacy through a high-TRL proof-of-concept using a 500-vehicle corporate fleet in Portugal, integrating literature-derived constraints into operational Vehicle Routing Problems (VRP) and predictive maintenance."
+    },
+    {
+      "index": 88,
+      "text": "LITERATURE REVIEW"
+    },
+    {
+      "index": 89,
+      "text": "This chapter reviews the scientific literature relevant to transportation energy systems and sustainability. Its objective is not solely to survey technological alternatives, but to diagnose the structural limitations of current knowledge synthesis and decision-support practices. The review serves a dual purpose: first, to consolidate existing understanding of alternative fuels and transport systems; and second, to justify the methodological shift toward AI-assisted, epistemically constrained synthesis as a necessary condition for high-TRL (Technology Readiness Level) operational decision-making."
+    },
+    {
+      "index": 90,
+      "text": "To properly contextualise the need for an AI-driven \"epistemic compiler,\" it is first necessary to map the fundamental constraints of the transportation energy landscape. The following sections detail the chemical, thermodynamic, and logistical complexities of alternative fuels. This density is intentional; it represents the \"Technical Substrate\" - the precise, multidimensional data that typically induces cognitive overload in traditional human-led literature reviews, thereby justifying the methodological shift introduced later in this work."
+    },
+    {
+      "index": 91,
+      "text": "The Evolving Energy Landscape for Transportation"
+    },
+    {
+      "index": 92,
+      "text": "Across the literature, technological maturity does not translate linearly into operational feasibility, underscoring the need for decision frameworks that handle context-dependent, constraint-driven trade-offs rather than universal solution rankings."
+    },
+    {
+      "index": 93,
+      "text": "Alternative Fuels and Energy Carriers"
+    },
+    {
+      "index": 94,
+      "text": "To evaluate the transition away from fossil fuels, it is vital to distinguish between primary energy sources and energy carriers [28]. Electricity, for example, is an energy carrier; it has zero mass, travels near the speed of light, and is difficult to store at scale, yet it is generated from diverse primary sources [29]. This distinction is critical when evaluating the true sustainability of various options."
+    },
+    {
+      "index": 95,
+      "text": "The options compared in this thesis do not form a homogeneous class. Diesel is the fossil incumbent; LPG is treated as a transitional fuel; methanol, together with dimethyl ether, is a candidate synthetic fuel whose climate merit depends on renewable synthesis and carbon sourcing; ammonia and hydrogen are grouped in the EU Alternative Fuels Infrastructure Regulation, Regulation (EU) 2023/1804 (AFIR), among alternative fuels for zero-emission transport applications, although their full climate performance depends on their production route; and battery-electric charging is not a fuel in the conventional sense. This heterogeneity exposes a terminological gap with operational consequences: there is no longer a single category word for what a vehicle takes on board. “Fuel” excludes charging, while “energy carrier” describes the vector one level above the practical act of supplying a vehicle. This thesis therefore adopts the working term vehicle energy supply options, consistent with the deliberately broad statutory definition of “alternative fuels” in Article 2, point (4), of AFIR, which includes electricity. The gap is not pedantic: the absence of a common unit of comparison at the level of “fuel” is the conceptual origin of the technology-agnostic Range Replenishment Capacity index developed in Section 4.3, which restores comparability at the only level where these options meet, namely delivered range per vehicle stop."
+    },
+    {
+      "index": 96,
+      "text": "Electricity: While electric vehicles (EVs) are a primary benchmark for decarbonization, they face significant hurdles [68]. Current battery technologies struggle with energy density, weight, and cost, making large-scale storage a significant bottleneck [69]. Furthermore, the infrastructure required to support widespread electrification demands massive financial investment [70]. The intermittency of renewable energy sources complicates supply reliability, necessitating robust storage solutions to ensure a stable energy flow [73]. Finally, the lifecycle emissions and supply chain dependencies of battery production raise ethical and environmental concerns about \"extractivist\" practices [62]."
+    },
+    {
+      "index": 97,
+      "text": "Hydrogen: As a promising alternative, green hydrogen faces economic viability limits due to expensive production processes [75]. Storage and transportation are complicated by its low volumetric energy density [76], requiring energy-intensive high-pressure or cryogenic tanks. Furthermore, stringent safety measures are required due to its high flammability [77], and the necessary distribution infrastructure demands significant investment to become widespread [78]."
+    },
+    {
+      "index": 98,
+      "text": "Methanol and Emerging Carriers: Methanol offers significant advantages due to its compatibility with existing liquid fuel infrastructure and its potential to be produced from captured CO2 [79]. However, its production is highly energy-intensive [80], and its toxicity and low boiling point pose handling challenges [81]. Despite this, its potential to reduce greenhouse gas emissions makes it a valuable transition candidate [82], [83]. Other carriers, such as Dimethyl Ether (DME) [84], [85], [87] and Ammonia [88], [89], [90], offer clean combustion and established distribution networks but, like other carriers, face limitations regarding energy density, engine modifications, and toxicity."
+    },
+    {
+      "index": 99,
+      "text": "Fundamental Sciences: The Hard Constraints"
+    },
+    {
+      "index": 100,
+      "text": "While technological promises abound, the fundamental sciences provide indispensable bounds on feasibility. To properly evaluate energy carriers, we must consider three distinct but interconnected physical layers:"
+    },
+    {
+      "index": 101,
+      "text": "Classical Thermodynamics and Chemistry (Theoretical Limits): The first law of thermodynamics dictates that energy can neither be created nor destroyed, only transformed [94]. The second law introduces irreversibility, stating that energy transformations are never 100% efficient; energy is always lost as waste heat, thereby increasing the system's entropy [95]. Physical chemistry provides a molecular understanding of these limits, using metrics such as Gibbs Free Energy to predict the spontaneity of reactions in fuel cells or electrolysis [82], [96]."
+    },
+    {
+      "index": 102,
+      "text": "Exergy (The Quality of Energy): Exergy analysis measures the quality of energy and its potential to perform work. Unlike energy, which is conserved, exergy is consumed, making it a vital tool for pinpointing inefficiencies in transport systems [91], [97]."
+    },
+    {
+      "index": 103,
+      "text": "Finite-Time Thermodynamics (The Temporal Constraint): While classical thermodynamics calculates ultimate efficiency assuming processes occur over an infinite duration, real-world transport systems are governed by Finite-Time Thermodynamics (FTT). As detailed by Tsirlin et al. (2025), optimising irreversible processes requires accounting for the finite duration of energy exchange, shifting the focus from theoretical maximum efficiency to maximum power output and temporal availability."
+    },
+    {
+      "index": 104,
+      "text": "Time is explicit in finite-time thermodynamics and in dynamic exergy formulations, and it is explicit again in charging, refuelling, queueing, and infrastructure-reliability studies. What remains weakly developed in the literature is the integrated evaluation layer that asks: how much useful work potential can a transport system deliver, at what rate, with what waiting risk, and with what service reliability? In other words, the gap is not “time versus exergy”; it is the lack of operational exergy metrics that integrate exergy, power, response time, queueing, and uptime into one transport-service framework."
+    },
+    {
+      "index": 105,
+      "text": "This loss of constraint fidelity, particularly the temporal dimension, motivates the need for synthesis mechanisms that explicitly preserve physical limits as first-order inputs to operational decision models."
+    },
+    {
+      "index": 106,
+      "text": "FRAMEWORKS FOR EVALUATION AND DECISION MAKING"
+    },
+    {
+      "index": 107,
+      "text": "Examining the intersection of energy supply and demand reveals that transportation and location optimisation are crucial. However, the frameworks historically used to evaluate these challenges often fall short of capturing the temporal and physical constraints established above."
+    },
+    {
+      "index": 108,
+      "text": "The Limitations of Static Frameworks"
+    },
+    {
+      "index": 109,
+      "text": "To evaluate energy alternatives and their systemic impacts, researchers traditionally rely on several established frameworks, such as Life Cycle Assessment (LCA) [93] and Techno-Economic Analysis (TEA) [92]. When comparing alternative fuels, Multi-Criteria Decision Analysis (MCDA) is a valuable tool. It considers multiple criteria (economic, environmental, social, and technical) to rank and select the best alternatives using predefined weights [102]. Additionally, bibliometric analyses provide a comprehensive overview of the academic knowledge base [9]."
+    },
+    {
+      "index": 110,
+      "text": "Despite their utility, the literature consistently highlights structural limitations within these traditional frameworks:"
+    },
+    {
+      "index": 111,
+      "text": "Static Assumptions: Most frameworks are static, relying on predefined weights and assumptions that fail to capture evolving, real-world operational realities (Cinelli et al., 2014)."
+    },
+    {
+      "index": 112,
+      "text": "Boundary Sensitivity: Results are notoriously sensitive to initial scenario definitions and where the researcher draws the system boundaries (Finnveden et al., 2009)."
+    },
+    {
+      "index": 113,
+      "text": "Exclusion of Dynamics: Temporal and spatial dynamics (e.g., the time-of-day carbon intensity of the grid or real-time charging availability) are often simplified or excluded entirely (Beloin-Saint-Pierre et al., 2020)."
+    },
+    {
+      "index": 114,
+      "text": "Narrative Bias and Author Subjectivity: Integration across disciplines introduces subjective narrative bias during the synthesis phases. Furthermore, claims in the literature can be inherently biased by authors' disciplinary focus or funding sources, leading to overestimating a technology's viability while minimising its operational drawbacks (Gough et al., 2012; Boutron & Ravaud, 2018)."
+    },
+    {
+      "index": 115,
+      "text": "These limitations indicate that traditional decision frameworks require an upstream data filter, a structured process that ensures relevant knowledge is preserved, traceable, and correctly mapped before numerical aggregation."
+    },
+    {
+      "index": 116,
+      "text": "Operations Research in Fleet Management"
+    },
+    {
+      "index": 117,
+      "text": "While macro-level fuel evaluations dictate global energy strategies, the actual transition to sustainable transport occurs at the micro-operational level. This necessitates a shift in literature focus toward Operations Research (OR). Key concepts in this domain include the Vehicle Routing Problem (VRP) and its advanced iterations, where heuristics and metaheuristics, such as Variable Neighbourhood Search (VNS) (a metaheuristic that systematically varies the neighbourhood structure of a candidate solution to escape local optima, well suited to fleet routing problems with time windows, heterogeneous vehicles, and charging constraints), are utilised to minimize travel time and energy consumption (e.g., as demonstrated in the optimisation of complex logistics networks by Hansen et al., 2019)."
+    },
+    {
+      "index": 118,
+      "text": "Furthermore, the advent of the Internet of Things (IoT) and vehicle telemetry has introduced Predictive Maintenance as a critical strategic lever. Utilising Machine Learning (ML) to predict component failure not only extends vehicle lifecycles but drastically reduces operational downtime (Carvalho et al., 2019). However, the synthesis of these domains, dynamic routing, predictive maintenance, and strategic vehicle substitution, represents a recognised gap in current literature, which often treats them as isolated silos rather than an interconnected operational ecosystem."
+    },
+    {
+      "index": 119,
+      "text": "[PLACEHOLDER: Figure 5 - The Siloed Nature of Fleet Management (Visual showing VRP, Maintenance, and Fuel Substitution as disconnected gears that need to be meshed together)]"
+    },
+    {
+      "index": 120,
+      "text": "SCIENTIFIC MULTIDISCIPLINARY CONTEXT AND AI: THE CORE SYNERGY"
+    },
+    {
+      "index": 121,
+      "text": "The Imperative of Multidisciplinarity in Transport Systems"
+    },
+    {
+      "index": 122,
+      "text": "Transportation Systems research extends well beyond infrastructure design, encompassing Social Sciences (user behaviour), Mechanical Engineering (vehicle power), Electrical Engineering (charging grids), and Computer Science (routing algorithms) [111], [112], [113]. Environmental science addresses growing concerns over air quality and the sustainable mobility paradigm [114]. Consequently, Transportation Systems research demands a genuinely interdisciplinary framework."
+    },
+    {
+      "index": 123,
+      "text": "The Data Deluge: Rate of Growth of Scientific Publications"
+    },
+    {
+      "index": 124,
+      "text": "A rapid acceleration in knowledge production compounds the necessity of multidisciplinarity. The exponential growth of scientific articles makes it harder to digest the knowledge base and to select publications relevant to specific operational questions effectively."
+    },
+    {
+      "index": 125,
+      "text": "To illustrate this trend, Table 1 highlights the recent publication growth across key energy and transport domains (data sourced via Scopus, 2023)."
+    },
+    {
+      "index": 126,
+      "text": "Table 1. Rate of growth of scientific publications."
+    },
+    {
+      "index": 127,
+      "text": "Topic"
+    },
+    {
+      "index": 128,
+      "text": "Total"
+    },
+    {
+      "index": 129,
+      "text": "Articles"
+    },
+    {
+      "index": 130,
+      "text": "Articles2022-23"
+    },
+    {
+      "index": 131,
+      "text": "% last2 Years"
+    },
+    {
+      "index": 132,
+      "text": "ReviewArticles"
+    },
+    {
+      "index": 133,
+      "text": "% Rev.Articles"
+    },
+    {
+      "index": 134,
+      "text": "Increasing Publications"
+    },
+    {
+      "index": 135,
+      "text": "32,232"
+    },
+    {
+      "index": 136,
+      "text": "6,385"
+    },
+    {
+      "index": 137,
+      "text": "19.8%"
+    },
+    {
+      "index": 138,
+      "text": "4,335"
+    },
+    {
+      "index": 139,
+      "text": "13.4%"
+    },
+    {
+      "index": 140,
+      "text": "Energy & TransportSystems"
+    },
+    {
+      "index": 141,
+      "text": "35,869"
+    },
+    {
+      "index": 142,
+      "text": "6,526"
+    },
+    {
+      "index": 143,
+      "text": "18.2%"
+    },
+    {
+      "index": 144,
+      "text": "3,547"
+    },
+    {
+      "index": 145,
+      "text": "9.9%"
+    },
+    {
+      "index": 146,
+      "text": "Carbon Capture"
+    },
+    {
+      "index": 147,
+      "text": "14,665"
+    },
+    {
+      "index": 148,
+      "text": "3,617"
+    },
+    {
+      "index": 149,
+      "text": "23.8%"
+    },
+    {
+      "index": 150,
+      "text": "1,231"
+    },
+    {
+      "index": 151,
+      "text": "8.4%"
+    },
+    {
+      "index": 152,
+      "text": "Green Methanol"
+    },
+    {
+      "index": 153,
+      "text": "132"
+    },
+    {
+      "index": 154,
+      "text": "69"
+    },
+    {
+      "index": 155,
+      "text": "52.3%"
+    },
+    {
+      "index": 156,
+      "text": "13"
+    },
+    {
+      "index": 157,
+      "text": "9.8%"
+    },
+    {
+      "index": 158,
+      "text": "As demonstrated, highly specific emerging technologies like \"Green Methanol\" have seen over 50% of their total literature published in just a two-year window. This rapid growth shifts the limiting factor of research from information scarcity to selection and synthesis capacity. Evaluating the credibility of research from such numerous publications is incredibly difficult during the screening phase of a Systematic Literature Review (SLR). In this environment, epistemic governance becomes a central research challenge rather than a secondary methodological concern."
+    },
+    {
+      "index": 159,
+      "text": "Enhancing Knowledge Synthesis via AI"
+    },
+    {
+      "index": 160,
+      "text": "Subject complexity and the growing publication rate call for optimised tools. Traditional approaches use tools such as Rayyan [117] to organise articles, or bibliometric packages such as Bibliometrix [118], [125]. While these tools offer valuable macro-level insights, they possess severe limitations when researchers seek detailed, synthetic, or operational information."
+    },
+    {
+      "index": 161,
+      "text": "Artificial Intelligence, particularly Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques, offers transformative potential [122]. However, early explorations with LLMs revealed significant limitations. Models suffer from the \"Lost in the Middle\" phenomenon, where relevant information buried in long texts is systematically overlooked [121]. More dangerously, LLMs are prone to \"Semantic Drift\" and hallucinations, producing highly plausible but factually incorrect information [123]. Relying on probabilistic AI to independently select and synthesise source data without structural constraints introduces unacceptable risks for high-stakes engineering and policy decisions."
+    },
+    {
+      "index": 162,
+      "text": "Towards Holistic and Actionable Knowledge: The Data-to-Operations Gap"
+    },
+    {
+      "index": 163,
+      "text": "The literature reveals distinct gaps in the study of alternatives to fossil fuels. Chief among them is the lack of a holistic approach that connects primary energy sources with the operational realities of the consumption point. For example, traditional literature rarely evaluates the operational value of timely energy usage, the profound difference between fueling a vehicle with liquid fuel in 5 minutes and charging a battery over several hours."
+    },
+    {
+      "index": 164,
+      "text": "This creates a profound gap between the vast, unstructured ocean of academic literature and the hard, mathematical constraints required to manage a real-world transport fleet. Bridging this data-to-operations gap requires a new paradigm. As demonstrated in the candidate's preliminary work, “An AI Framework for Literature Review in Search of Sustainable Fuels” (Publication 2), we must move beyond treating AI as a probabilistic \"oracle\" that guesses the State-of-the-Art. Instead, we must harness it as a knowledge-structuring compiler, a tool that extracts verifiable atomic facts and subjects them to strict, human-defined structural validation. Viewed through the scarcity triad of Section 1.4 (time, location, and information under scarcity), the data-to-operations gap is itself a scarcity problem: the binding constraint is no longer access to information but the time and cognitive capacity to convert it into location- and time-specific operational constraints. Decision time, not data, is now the scarce resource."
+    },
+    {
+      "index": 165,
+      "text": "Methodological Rigour and Confirmation Bias in the Age of AI"
+    },
+    {
+      "index": 166,
+      "text": "While the initial stages of this literature review maintained an open and systemic approach, it is necessary to acknowledge a fundamental reality of the modern research process. At various stages of intellectual development, researchers naturally seek comfort in their hypotheses by searching for established authors who validate their claims. This tendency toward confirmation bias, selectively gathering evidence that supports preconceived hypotheses while ignoring contradictory data, is a well-documented vulnerability in academic research (Lipton & Steinhardt, 2019; Macoun & Miller, 2014)."
+    },
+    {
+      "index": 167,
+      "text": "However, the advent of Generative AI and \"Deep Search\" tools fundamentally alters this dynamic. AI enables researchers to identify validating claims and synthesise them into plausible narratives at unprecedented speeds. As noted by Messeri and Crockett (2024) in Nature, this rapid synthesis can create an \"illusion of understanding,\" where the speed of information retrieval outpaces the researcher's capacity for critical evaluation. Furthermore, LLMs frequently exhibit \"sycophancy,\" tailoring their retrieved evidence to align with the user's implied hypothesis (Perez et al., 2022). Moreover, AI-assisted research workflows can amplify Semantic Drift recursively when AI-generated framings feed subsequent AI context without human verification checkpoints, a mechanism illustrated in this project's own production process (see Section 4.1, the 26 L/100km episode). This thesis therefore treats external validation (expert surveys, supervisor review, and deterministic physical constraints) as the mandatory grounding layer of the workflow itself, extending the argument above from output-level to workflow-level bias."
+    },
+    {
+      "index": 168,
+      "text": "Therefore, the integration of AI into the research workflow accrues a new, heavier responsibility. If AI can instantly validate any claim, the researcher's ambition must rise to a higher level: understanding how a counter-argument might dismantle a validated claim. We must shift from using AI as a tool for confirmation to using it as an engine for falsification."
+    },
+    {
+      "index": 169,
+      "text": "This realisation, that the speed of AI must be counterbalanced by rigorous, deterministic validation, enables the methodological development detailed in the following chapter. It necessitates a framework that does not merely retrieve information, but actively stress-tests it against competing operational constraints. How can we build a framework that extracts verifiable constraints from this literature and feeds them directly into fleet-level decision models?"
+    },
+    {
+      "index": 170,
+      "text": "RESEARCH METHODOLOGY AND PLAN"
+    },
+    {
+      "index": 171,
+      "text": "To bridge the multidisciplinary gap between fundamental energy sciences and practical, high-TRL operational execution, this research has followed a rapid, iterative development cycle. Operations Research (OR) and Artificial Intelligence serve as the primary methodological tools to cross this gap. Over the past year, the candidate has concurrently developed the theoretical framework, engineered the software architecture, and secured operational validation."
+    },
+    {
+      "index": 172,
+      "text": "The research question of this thesis, namely how to make fleet fuel and routing decisions reliable when the supporting knowledge is vast, heterogeneous, and increasingly machine-synthesised, predates the instruments now used to answer it. The topic was chosen before the release of modern generative AI, when the data deluge was already an obstacle to transport decision-making (Section 1.3). As generative capability advanced, the instruments were versioned in response; the underlying reliability question did not change. Research conducted on a moving technological substrate therefore requires an explicit methodology for instrument versioning, and the Thread Categorised History Report (Section 3.3.5) is the evidence artifact documenting that versioning: it records which instrument produced which output, under which constraints, at which point in the trajectory."
+    },
+    {
+      "index": 173,
+      "text": "Notably, the architectural logic and epistemic constraints developed independently for the DSAiVE (Dynamic Systematic Artificial Intelligence Vector Engine) framework parallel recent commercial developments in managed agentic infrastructure. These industry developments confirm market demand for managed agentic infrastructure, and thereby increase, rather than diminish, the need for the layer DSAiVE occupies. Commercial platforms solve an engineering problem: tool execution, session persistence, sandboxed computation. They deliberately leave unaddressed the epistemic problem of whether a generated output is scientifically valid for a transport decision: whether it respects thermodynamic bounds, infrastructure realities, and cost constraints. DSAiVE is not converging with these platforms; it occupies a methodological layer that commercial infrastructure does not claim. The distinction can be seen as infrastructure versus epistemic validity."
+    },
+    {
+      "index": 174,
+      "text": "The “Vector” in DSAiVE's name records an early expectation that semantic-vector representations would help bridge this categorical gap; that expectation remains unrealised, and is tested rather than assumed by the planned embedding audit (Section 3.3.5)."
+    },
+    {
+      "index": 175,
+      "text": "Hosted agentic platforms now provide much of the execution machinery this research previously had to engineer by hand, freeing the methodology to concentrate on what such platforms do not provide: validation of transport-decision outputs against physical and economic constraints."
+    },
+    {
+      "index": 176,
+      "text": "While these platforms abstract away the complex engineering layers of tool execution, session persistence, and sandboxed computation, they are not natively designed to address the core scientific challenge of epistemic validity. The computational layer remains indifferent to whether the generated output violates classical thermodynamics or introduces semantic drift. Nevertheless, it is worth noting a deeper parallel: the iterative validation loops embedded in commercial agent architectures, where each agent output is checked, constrained, and recalled before proceeding, mirror the same epistemic discipline that rigorous scientific methodology demands. The need to systemise and structure science is, at its core, the same need that drives structured agent orchestration."
+    },
+    {
+      "index": 177,
+      "text": "Modern AI systems increasingly rely not only on larger models, but on structured external scaffolds that guide model behaviour, constrain interpretation, and connect outputs to validated sources or workflows. The DSAiVE framework occupies the critical methodological layer immediately above this infrastructure. It translates the raw agent execution capacity into a controlled, extraction pipeline anchored to a predefined set of domain categories, enforcing domain-specific constraints (e.g., fuel energy densities, exergy rates) before the probabilistic data is passed down to operational decision models."
+    },
+    {
+      "index": 178,
+      "text": "THE EPISTEMIC TRAJECTORY: PRELIMINARY WORK AND PUBLICATIONS"
+    },
+    {
+      "index": 179,
+      "text": "This trajectory is documented through a series of peer-reviewed submissions, congress presentations, and corporate partnerships. It reflects the transition from macro-theoretical AI exploration to micro-operational Transport Systems execution. To provide a clear overview of this epistemic trajectory, the foundational phases and their corresponding academic outputs are summarised in Table 2."
+    },
+    {
+      "index": 180,
+      "text": "Table 2: Chronological Evolution of the Research Methodology"
+    },
+    {
+      "index": 181,
+      "text": "**Phase** Focus Area"
+    },
+    {
+      "index": 182,
+      "text": "Academic Output /Core Contribution"
+    },
+    {
+      "index": 183,
+      "text": "**1. Architecture** Identifying the Data Deluge****"
+    },
+    {
+      "index": 184,
+      "text": "*Publication 1: (July 2025): DSAiVE - Literature Review in Multidisciplinary Context (CISTI)* Formally introduced the \"Data Deluge\" problem and proposed the foundational architecture of the DSAiVE framework to process complex energy datasets."
+    },
+    {
+      "index": 185,
+      "text": "**2. Validation** Quantitative Testing****"
+    },
+    {
+      "index": 186,
+      "text": "*Publication 2 (Dec 2025): An AI Framework for Literature Review in Search of Sustainable Fuels* Tested the framework against 478 abstracts, cross-validated by 118 original authors. Selected in the top ten at the European Universities Competition on AI."
+    },
+    {
+      "index": 187,
+      "text": "**3. Epistemology** Human-AI Interaction****"
+    },
+    {
+      "index": 188,
+      "text": "*Publication 3 (Feb 2026): Qualitative Contributions of DSAiVE* Highlighted the specific difficulties LLMs face without deterministic constraints. Developed the \"Traffic Sign\" metaphor for guiding AI logic."
+    },
+    {
+      "index": 189,
+      "text": "**4. Application** Real-World Transport Realignment****"
+    },
+    {
+      "index": 190,
+      "text": "*Presentation (Feb 2026): DSAiVE - Harnessing AI to Support Transport Systems Decision Making (GET2026)* Marked the deliberate pivot back to applied transport policy, culminating in the partnership with the upK 500-vehicle corporate fleet."
+    },
+    {
+      "index": 191,
+      "text": "**5. Business Value** Business value Transport Fleet application"
+    },
+    {
+      "index": 192,
+      "text": "*Ongoing business value-oriented work:Applying concepts and frameworks to creating business value* New academic partnership upK corporate entity. The framework will now be applied to optimise routing and predictive maintenance in a rich, real-world context: a 500-vehicle corporate fleet. This transitions the thesis from a theoretical AI exercise into a validated, high-TRL Transport Systems operational model."
+    },
+    {
+      "index": 193,
+      "text": "**6. Competences / Multidisciplinarity**"
+    },
+    {
+      "index": 194,
+      "text": "*Short paper (ongoing): Taming the Stochastic Parrot: DSAiVE Framework Contributions for Ethical AI.* Although not accepted for publication, this work developed a critical visual and conceptual metaphor for the thesis: LLMs require \"traffic signs\" to guide them through allowed, verified, and recommended epistemic paths. This directly informed the \"Neuro-Symbolic Handoff\" mechanism."
+    },
+    {
+      "index": 195,
+      "text": "Figure 8 - Research trajectory: the research question is invariant; the instruments are versioned."
+    },
+    {
+      "index": 196,
+      "text": "DSAiVE Framework Architecture"
+    },
+    {
+      "index": 197,
+      "text": "The DSAiVE framework was developed to overcome the limitations of traditional systematic literature reviews and early Generative AI tools. It combines Retrieval-Augmented Generation (RAG) principles with a structured, user-defined approach to cluster information, ensuring both systemic coverage and domain-specific depth."
+    },
+    {
+      "index": 198,
+      "text": "In design-science terms, DSAiVE is best characterised as a framework-governed toolkit: a fixed governing core (the epistemic hierarchy, Semantic Drift control, and the graded constraint-validation handoffs) that directs a configurable set of operational modules (screening, extraction, validation, visualisation) whose composition adapts to the task, corpus, and resource constraints at hand. The core is fixed; the toolkit is situational. The designation is deliberate: “framework” alone would overstate methodological closure at the project's current stage, while “toolkit” alone would understate the binding role of the governing core. Throughout this document, “framework” is retained as shorthand for the complete construct."
+    },
+    {
+      "index": 199,
+      "text": "The remainder of this chapter specifies the governing core; Chapter 4 demonstrates the module contracts through handoffs of ascending complexity; and the evaluation programme is defined by the epistemic classification of contributions (Chapter 5) and the graded validation sequence introduced below."
+    },
+    {
+      "index": 200,
+      "text": "Figure 9 - DSAiVE as a framework-governed toolkit: a fixed governing core directing configurable operational modules (Publication 2)."
+    },
+    {
+      "index": 201,
+      "text": "The Dynamic Bundle: From Search to Synthesis"
+    },
+    {
+      "index": 202,
+      "text": "Previous sections unveiled the complexity of transportation's impact on greenhouse emissions. Managing multidisciplinary facets is challenging because detailed technical information must be evaluated without losing the systemic perspective. It was also found that existing AI tools do not provide the desired transparency and control."
+    },
+    {
+      "index": 203,
+      "text": "To address this, the RAPTOR (Recursive Abstractive Processing for Tree-Organised Retrieval) Python package was initially investigated. As noted by Liu et al. (2023) and Sun et al. (2021), Large Language Models tend to underutilise long-range context, seeing diminishing performance as context length increases. Retrieval-augmented language models (RALMs) have advanced from traditional term-based techniques like TF-IDF and BM25 to recent RAG architectures that integrate pre-trained sequence-to-sequence models with a neural retriever."
+    },
+    {
+      "index": 204,
+      "text": "However, when the original RAPTOR package was applied to our article corpus, qualitative analysis revealed structural limitations. While automated clustering via Gaussian Mixture Models (GMM) is conceptually interesting, it did not sufficiently address the specific problem statements of our literature review. Evaluating RAPTOR on a large corpus is difficult because its clustering definition is statistically indeterministic. While aiming to add liberty levels through purely statistical grouping of themes, the analysis becomes increasingly complex as the number of articles grows. Thus, purely statistical clustering does not provide the intended transparency and synthesising capacity required for rigorous research, instead focusing solely on querying."
+    },
+    {
+      "index": 205,
+      "text": "Structured Extraction Pipeline"
+    },
+    {
+      "index": 206,
+      "text": "Given these limitations, the first innovative proposal of this work is to adapt the RAG architecture from answering specific questions to context summarisation via user-defined clustering."
+    },
+    {
+      "index": 207,
+      "text": "Rather than relying on the AI to guess the themes, the researcher predefines the clusters upfront based on their view of a specific research question. This structure dictates the clusters that need to be made. With this new approach, the process is predefined, making it easier to analyse and evaluate, ultimately bringing transparency. (It remains possible to add some degree of freedom with a “free text” cluster for themes not referred to above)."
+    },
+    {
+      "index": 208,
+      "text": "The DSAiVE bundle replaces the static “separate the wheat from the chaff” approach with a dynamic system that fuses all SLR phases. The main features of this pipeline include:"
+    },
+    {
+      "index": 209,
+      "text": "Flexible Data Source Integration: Designed to handle multiple data sources (APIs, PDFs, URLs) seamlessly, allowing for LLM and Embedding Model flexibility to plan robustness tests."
+    },
+    {
+      "index": 210,
+      "text": "Segmented Data Ingestion & PDF Text Highlight Extraction: This allows for granular analysis and direct traceability of synthesised information back to source excerpts."
+    },
+    {
+      "index": 211,
+      "text": "Multi-Level Parameterisation and Prompt Engineering: The system iteratively calls the language model to generate structured outputs aligned with predefined research categories (e.g., thermodynamics, LCA, infrastructure costs). This provides granular control over the summarisation process, enabling custom tuning to balance processing cost and detail."
+    },
+    {
+      "index": 212,
+      "text": "Applied Methodology: Validating the Epistemic Compiler"
+    },
+    {
+      "index": 213,
+      "text": "Before applying the framework to high-stakes corporate operations, it was necessary to rigorously validate the quality, transparency, and reliability of the AI-generated outputs. This was achieved through two distinct empirical phases: an exploratory analysis of sustainable fuels literature and a large-scale expert validation study."
+    },
+    {
+      "index": 214,
+      "text": "Exploratory Validation: The Methanol Case Study"
+    },
+    {
+      "index": 215,
+      "text": "The DSAiVE framework was first applied to a corpus of over 1,150 documents regarding methanol as an alternative fuel. This corpus was narrowed to a core set of 121 relevant articles for deep synthesis."
+    },
+    {
+      "index": 216,
+      "text": "Figure 6 - Article sections ratings per category"
+    },
+    {
+      "index": 217,
+      "text": "To quantitatively measure the alignment of these articles with the research objectives, the framework introduced Article Rating by Category. Each article was assigned a discrete rating within predefined categories (e.g., thermodynamics, infrastructure costs, carbon utilisation):"
+    },
+    {
+      "index": 218,
+      "text": "1.0: Directly related."
+    },
+    {
+      "index": 219,
+      "text": "0.5: Indirectly related."
+    },
+    {
+      "index": 220,
+      "text": "0: No alignment."
+    },
+    {
+      "index": 221,
+      "text": "As illustrated in the visual analysis of this phase (see Figure 6), this structured output enabled a granular comparison between the complete set of articles and the subset selected via traditional human screening. The results revealed that traditional human screening is often subjective and difficult to replicate. At the same time, the human-selected subset had higher average ratings, and the AI identified several high-relevance articles that the human reviewer had initially rejected due to narrative bias. This exploratory phase demonstrated that structured AI prompting provides a more transparent and reproducible approach to selecting relevant technical literature than manual screening alone."
+    },
+    {
+      "index": 222,
+      "text": "Robustness Validation: The SDG Expert Survey"
+    },
+    {
+      "index": 223,
+      "text": "To further validate the framework’s accuracy, a large-scale, human-in-the-loop study was conducted. DSAiVE was used to classify 478 abstracts from an engineering symposium (DCE25) against the 17 UN Sustainable Development Goals (SDGs)."
+    },
+    {
+      "index": 224,
+      "text": "To build a community-verified \"ground truth,\" personalised surveys were programmatically generated for each of the 478 authors. Each author was asked to rate the accuracy of the AI-generated summary of their work on a 5-point Likert scale. The analysis of 118 valid responses (a 24.7% response rate) revealed a fundamental epistemic insight: the AI is \"precise but timid.\""
+    },
+    {
+      "index": 225,
+      "text": "The model achieved high precision (0.85) for the \"High Relevance\" category but showed poor recall for nuanced or \"Medium Relevance\" cases. This finding identified a critical \"Trust Paradox\". While experts fundamentally trust the AI to extract \"atomic facts\" (e.g., specific data points), they remain sceptical of the AI's ability to synthesise the \"State-of-the-Art autonomously\". This paradox confirmed that for scientific research, AI must be used as a compiler of facts, not an oracle of truth."
+    },
+    {
+      "index": 226,
+      "text": "Evaluating Epistemic Risk: Beyond Surface Metrics"
+    },
+    {
+      "index": 227,
+      "text": "A critical conclusion of this validation phase was the rejection of standard Natural Language Processing (NLP) metrics. Traditional tests such as ROUGE (Recall-Oriented Understudy for Gisting Evaluation) or BERTScore rely on surface-level text similarity or n-gram overlap."
+    },
+    {
+      "index": 228,
+      "text": "As established in foundational critiques (Maynez et al., 2020), these metrics fail to capture the structural distinction between open-ended generation and abstractive summarisation. In a manifestation of Goodhart’s Law, these metrics often become optimisation targets that reward lexical repetition while remaining blind to factual consistency and the preservation of physical constraints."
+    },
+    {
+      "index": 229,
+      "text": "Therefore, this research asserts that the true robustness of a transport-oriented AI framework cannot be measured by text similarity. Instead, validation must be achieved through operational efficacy: the ability of the framework to accurately preserve and pass technical constraints (e.g., thermodynamic limits) into deterministic decision models without \"Semantic Drift.\""
+    },
+    {
+      "index": 230,
+      "text": "The \"AI-Native\" Research Trajectory: Orchestration and Validation"
+    },
+    {
+      "index": 231,
+      "text": "This section outlines the specific approach taken during this doctoral research to manage the multidisciplinary complexity of transport systems through the judicious use of Artificial Intelligence. It represents a departure from traditional \"manual-only\" research workflows, moving toward a model of Epistemic Orchestration."
+    },
+    {
+      "index": 232,
+      "text": "Reasoning vs. Retrieval: DeepSearch, RAG, and the \"Stochastic Parrot\"."
+    },
+    {
+      "index": 233,
+      "text": "A primary challenge of this thesis is its location at the intersection of transport engineering, thermodynamics, operations research, and financial modelling. In a traditional framework, the researcher is expected to demonstrate deep, granular expertise in each of these sub-domains. However, given the current \"Data Deluge,\" this requirement often becomes a bottleneck, leading to narrow, siloed investigations."
+    },
+    {
+      "index": 234,
+      "text": "In this research, I adopt the role of an Orchestrator. By leveraging state-of-the-art \"Deep Search\" and Retrieval-Augmented Generation (RAG) tools, I can efficiently identify relevant data points across multiple domains. However, early explorations revealed that standard LLMs act as \"Stochastic Parrots\": probabilistic engines optimised to produce text that is statistically likely, often resulting in plausible but factually incorrect statements (hallucinations)."
+    },
+    {
+      "index": 235,
+      "text": "Therefore, my primary responsibility shifted from \"data gathering\" to \"data auditing.\" The goal is not to rely on the AI for reasoning, but to use it for rapid retrieval, ensuring that its probabilistic suggestions are strictly filtered through deterministic physical and economic constraints."
+    },
+    {
+      "index": 236,
+      "text": "Characterising Semantic Drift: The LLM Thread Categorised History Report"
+    },
+    {
+      "index": 237,
+      "text": "While \"hallucination\", the outright fabrication of facts, is a well-documented risk, a far more insidious challenge in multidisciplinary research is \"Semantic Drift.\" Semantic Drift occurs when an LLM, processing dense technical literature, naturally diverges toward generic, homogenised summaries. The technical substrate is lost not because the AI hallucinated, but because it drifted toward narrative convergence, missing the user's highly specific, multidisciplinary intent."
+    },
+    {
+      "index": 238,
+      "text": "To formally quantify and mitigate this phenomenon, this research developed the LLM Thread Categorised History Report. Rather than treating the human-AI interaction as an ephemeral chat, the entire conversational history (comprising over 770,000 tokens) was treated as a structured dataset."
+    },
+    {
+      "index": 239,
+      "text": "A deterministic Python classifier was built to audit the AI's responses, categorising each interaction node into specific epistemic states:"
+    },
+    {
+      "index": 240,
+      "text": "Alignment vs Divergence: Flagging instances where the AI suffered Semantic Drift or Structural Divergence (failing to follow formatting rules)."
+    },
+    {
+      "index": 241,
+      "text": "Epistemic Novelty: Identifying moments of true Cross-Domain Synthesis versus standard iteration."
+    },
+    {
+      "index": 242,
+      "text": "Structural Anchors: Tracking the explicit rules (e.g., JSON constraints, word limits) required to force the AI back into alignment."
+    },
+    {
+      "index": 243,
+      "text": "By running this deterministic classification against the chat history, the \"AI Learning Trajectory\" was transformed from a subjective narrative into a quantifiable methodological contribution. It provides longitudinal single-case evidence that, without continuous structured human-in-the-loop intervention and hard constraints, the probabilistic models used in this research repeatedly exhibited Semantic Drift."
+    },
+    {
+      "index": 244,
+      "text": "It must be stated plainly: the Thread Categorised History Report is a single-researcher longitudinal case; Semantic Drift has been observed and characterised here, but not yet measured at statistically significant scale. A graded sequence of validation case studies is therefore planned, ascending in externality. First, a scoped pilot audit of whether the vehicle energy supply options evaluated in this thesis (Section 2.1.1) remain geometrically faithful in the embedding space DSAiVE relies on, testing concept-neighbourhood integrity and the correlation between embedding geometry and physical dissimilarity (energy density, replenishment time, exergy), since a distorted representation would silently corrupt fuel-selection recommendations. Second, expert-validation extensions. Third, operational testbed outcomes. The pilot's audit instruments are identified methodology only; the protocol itself is outside the scope of this document."
+    },
+    {
+      "index": 245,
+      "text": "Validating the \"Compass\": How LLM-based Exploration vs Deterministic Validation Creates Trust"
+    },
+    {
+      "index": 246,
+      "text": "The metaphors used throughout this methodology correspond to specific technical mechanisms: the “Dice” denotes probabilistic exploration by the language model, the “Compass” denotes deterministic constraint validation, and the “Traffic Sign” denotes the explicit rule set that guides the model between them."
+    },
+    {
+      "index": 247,
+      "text": "A key finding of this research trajectory is that traditional machine-learning metrics are often too \"naive\" for complex scientific contexts. A high surface-level text match does not guarantee that a piece of information is useful for a fleet manager’s decision-making process."
+    },
+    {
+      "index": 248,
+      "text": "Consequently, the methodology focuses on Contextual Validity. To resolve the \"Trust Paradox\", where experts trust AI to extract data but reject it when it attempts to synthesise the State-of-the-Art, this thesis enforces a strict separation of duties. The LLM is used as a probabilistic \"Dice\" to explore the vast landscape of literature and propose connections. However, these proposals are immediately handed off to the \"Compass\", the deterministic Sandbox (detailed in Chapter 4)."
+    },
+    {
+      "index": 249,
+      "text": "This Neurosymbolic Loop ensures that the AI proposes a solution, but the human-governed Sandbox provides the deterministic \"Yes/No\" check based on fundamental scientific laws. This creates a transparent, auditable trail of truth that bridges the gap between academic research and practical business value."
+    },
+    {
+      "index": 250,
+      "text": "Named precisely, Operations Research is the deterministic symbolic layer of this neurosymbolic architecture, that is, of a design pairing a probabilistic language model with a rule-based mathematical validator. The validation layer that receives LLM handoffs is constructed of OR formulations (Vehicle Routing Problem variants solved by Variable Neighbourhood Search, Total Cost of Ownership constraints) together with physical bounds. To the author's knowledge, this positions the thesis as an early documented case of OR-grounded neurosymbolic decision support in transport. The claim is interpretive: it names the existing design rather than proposing a new workstream, and the dependent variable throughout remains transport outcomes: fleet cost, emissions, routing, and fuel selection."
+    },
+    {
+      "index": 251,
+      "text": "Managing the \"Long Tail\": The Necessity of Hybrid Semantic-Lexical Retrieval"
+    },
+    {
+      "index": 252,
+      "text": "In multidisciplinary environments like Transport Systems, innovation often emerges at the intersection of disciplines. A primary challenge in systematic literature reviews is identifying what is truly novel or limiting within massive textual corpora."
+    },
+    {
+      "index": 253,
+      "text": "Traditional lexical retrieval (TF-IDF, BM25) is effective at emphasising rarity, but its reliance on exact-match fragments can fail to connect semantically equivalent ideas across different disciplinary vocabularies. Conversely, pure embedding-based similarity (dense vectors) excels at semantic generalisation but tends to smooth frequency information, underweighting rare, domain-specific concepts (Luan et al., 2021). Embeddings favour central \"head\" concepts over marginal but critical \"long-tail\" ideas."
+    },
+    {
+      "index": 254,
+      "text": "To overcome this, the DSAiVE framework relies on the principles of hybrid semantic-lexical retrieval (often conceptualised as a 'Semantic TF-IDF' approach, akin to models like SPLADE; Formal et al., 2021). This approach asserts that semantic relevance and lexical discrimination are orthogonal dimensions and that innovation detection requires both. By preserving the rarity of inverse document frequency (IDF) while allowing semantic generalisation, the framework successfully surfaces the \"Long Tail\" of scientific evidence: low-frequency concepts, specialised terminology, and subtle boundary conditions that are critical for operational modelling but are typically lost in standard RAG pipelines."
+    },
+    {
+      "index": 255,
+      "text": "APPLIED FLEET OPTIMIZATION (THE UPK TESTBED)"
+    },
+    {
+      "index": 256,
+      "text": "To validate the efficacy of the DSAiVE framework and the Neurosymbolic Handoff, the methodology was transitioned from theoretical literature synthesis to high-TRL (Technology Readiness Level) operational execution. This was achieved through a partnership with upK, utilising their 500-vehicle air-conditioning maintenance fleet as an \"Operational Testbed for Deterministic AI Validation.\""
+    },
+    {
+      "index": 257,
+      "text": "The objective of this phase was not merely to propose a generic fleet electrification plan, but to orchestrate a physically bounded, risk-adjusted transition strategy by applying deterministic physical constraints to highly volatile corporate telemetry."
+    },
+    {
+      "index": 258,
+      "text": "The three cases that follow are presented in ascending order of handoff complexity, forming the thesis's validation pyramid: the simplest case at the base, the most demanding at the apex. Section 4.1 is a single arithmetic plausibility check, a thermodynamic consumption bound that catches physically impossible fleet averages. It is deliberately elementary: its value is pedagogical and structural rather than empirical, demonstrating that even a trivial deterministic check (constraint validation, in Operations Research terms) prevents data errors from compounding into cost models. Section 4.2 ascends to multi-constraint financial-operational classification (the Tri-State/TCO analysis), and Section 4.3 to spatial-infrastructural constraint mapping (the RRC index), which additionally demonstrates the framework's capacity to produce simple, self-explanatory interactive applications that support fleet decisions and shift operational mindsets. The complementary face of the pyramid is validation externality, ascending from self-audit (Section 3.3.5) through expert survey (Section 3.3.2) to operational testbed outcomes and, ultimately, supervisor and examiner review."
+    },
+    {
+      "index": 259,
+      "text": "Fleet Reconciliation & Physics Sandbox: The \"26 L/100km Illusion\""
+    },
+    {
+      "index": 260,
+      "text": "The fundamental challenge in modern fleet optimisation is the reliance on asynchronous, fragmented data sources. In this case study, the raw data consisted of fuel invoices (Repsol) and GPS telemetry logs (Cartrack/Diário)."
+    },
+    {
+      "index": 261,
+      "text": "Initial, naive data merging, a standard practice in basic fleet analysis, resulted in an empirical fleet median of over 26 L/100km for Light Commercial Vehicles (LCVs). If a standard probabilistic AI or static spreadsheet model had been used, it would have accepted this data, leading to disastrously inflated Total Cost of Ownership (TCO) projections and impossible EV battery requirements."
+    },
+    {
+      "index": 262,
+      "text": "However, the data was forced through the Physics Sandbox, the deterministic validation layer populated by the thermodynamic limits (6.0–13.0 L/100km for Diesel) extracted via the DSAiVE Epistemic Compiler. The Sandbox immediately flagged 83% of the records as THERMODYNAMIC_ANOMALY. The AI did not hallucinate a fix; the hard constraints proved that the underlying data pipeline violated the laws of physics."
+    },
+    {
+      "index": 263,
+      "text": "This triggered a critical data-engineering refactor: the transition to a \"Rolling Distance\" model. The pipeline was corrected to calculate consumption based on the exact sequential distance driven between refuelling events, rather than isolated daily snapshots. This surgical correction instantly normalised the empirical data (bringing the Diesel fleet median to a physically verified 6.36 L/100km) and successfully reconciled €854,608 of true fuel expense against 2,967,984 km of telemetry."
+    },
+    {
+      "index": 264,
+      "text": "By identifying and quarantining genuine anomalies (e.g., potential fuel theft, sensor drift, or off-book refuelling), the Physics Sandbox guaranteed that the subsequent optimisation models were built on a mathematically sound foundation."
+    },
+    {
+      "index": 265,
+      "text": "Tri-State Strategic Routing and TCO Integration"
+    },
+    {
+      "index": 266,
+      "text": "With the dataset cleaned deterministically, the framework moved to Operations Research (OR) modelling. Rather than applying a binary \"EV Yes/No\" assumption based on flat averages, the system evaluated the 95th-percentile of True Daily Kilometres (P95_Daily_KM) for each vehicle. This metric filters out rare, statistical outliers (e.g., a single 400km trip in a year) to capture the vehicle's \"Routine Maximum Operational Demand.\""
+    },
+    {
+      "index": 267,
+      "text": "To ensure financial rigour, a strict Total Cost of Ownership (TCO) constraint was applied, imposing an estimated €150/month lease penalty on EVs relative to internal combustion engine (ICE) equivalents. The fleet was then classified into three distinct business strategies:"
+    },
+    {
+      "index": 268,
+      "text": "EV_CANDIDATE_CLEAR (≤ 200 km/day): Vehicles mathematically guaranteed to survive on a standard EV battery during 95% of their active days. These candidates demonstrated strong operational viability combined with net-positive financial returns, even after the lease penalty."
+    },
+    {
+      "index": 269,
+      "text": "BIFUEL_LPG_PIVOT (> 300 km/day): Heavy-duty runners where current EV battery technology fundamentally fails without disrupting operations. Prioritising these high-mileage assets for Autogas (LPG) conversion offers the fastest, most pragmatic route to decarbonization and OPEX reduction."
+    },
+    {
+      "index": 270,
+      "text": "EV_INTERMEDIATE_CHARGE (200–300 km/day): Edge-case vehicles that exceed standard battery limits but may still be viable for electrification if intermediate, mid-day charging is operationally feasible."
+    },
+    {
+      "index": 271,
+      "text": "Execution of the resulting routing models on live operations is ongoing under Deliverable D5."
+    },
+    {
+      "index": 272,
+      "text": "Spatial Analysis: The Range Replenishment Capacity (RRC) Map"
+    },
+    {
+      "index": 273,
+      "text": "To resolve the viability of the 45 vehicles flagged for EV_INTERMEDIATE_CHARGE, the framework required a third dimension of validation: Geospatial Infrastructure."
+    },
+    {
+      "index": 274,
+      "text": "Standard infrastructure metrics often measure \"installed kW,\" which favours EVs on paper but ignores the physical realities of battery acceptance curves (charge taper) and user wait times. To address this, the Range Replenishment Capacity (RRC) index was developed. The RRC is a normalised, technology-agnostic metric that computes the deliverable range (km) per single vehicle stop within a constrained time window (e.g., 30 minutes)."
+    },
+    {
+      "index": 275,
+      "text": "The RRC map evaluates the Portuguese charging network using a 30km catchment radius, aligning with the EU AFIR (Alternative Fuels Infrastructure Regulation) compliance targets. By applying a 70% vehicle-acceptance chemical engineering constraint, the map visually translates installed power into user-experienced range."
+    },
+    {
+      "index": 276,
+      "text": "This spatial sandbox reveals critical \"charging deserts\" where lower-cost AC infrastructure delivers only 13–25 km of range per 30-minute stop, compared to the 750 km provided by an LPG pump in 5 minutes. By intersecting the specific GPS routes of the intermediate vehicles with the RRC map, fleet managers can deterministically decide whether to electrify the route (if it falls in a \"Green Zone\" with high RRC) or pivot the asset to LPG (if it operates in a \"Red Zone\"). The route-by-route intersection for the 45 intermediate vehicles is in progress, with completion planned under Deliverable D5."
+    },
+    {
+      "index": 277,
+      "text": "Ultimately, this applied case study demonstrates that an integrated approach to fleet substitution, routing, and predictive maintenance becomes feasible only when AI is utilised as a foundational structuring mechanism, bridging the gap between academic theory and measurable business strategy."
+    },
+    {
+      "index": 278,
+      "text": "The RRC map is, chronologically, the first concrete realisation of this thesis's core bridging objective: literature-derived physical constraints (charge-taper behaviour, vehicle acceptance limits, refuelling rates) translated into a visually communicable instrument, delivered as a simple interactive map application, that a fleet manager can act on without academic intermediation, on the principle that if it cannot be explained simply, it is not yet understood well enough. Its technology-agnostic definition is a direct response to the naming gap identified in Section 2.1.1: because no common category word covers both refuelling and charging, comparison is only possible at the level of delivered range per stop. Its rigour rests on a three-layer metric structure (nameplate power, event-based delivered energy, and daily throughput)."
+    },
+    {
+      "index": 279,
+      "text": "EXPECTED RESULTS AND CONCLUSIONS"
+    },
+    {
+      "index": 280,
+      "text": "This thesis aims to fundamentally redefine how multidisciplinary scientific literature is synthesised and applied to operational transportation challenges. By transitioning from a macro-theoretical perspective to a high-TRL (Technology Readiness Level) micro-operational reality, the expected results are categorised into three major contributions:"
+    },
+    {
+      "index": 281,
+      "text": "A Novel AI-Enhanced Epistemic Methodology (DSAiVE):A validated, deterministic compiler framework that enhances the transparency and comprehensiveness of systematic literature reviews. DSAiVE demonstrates how researchers can defeat \"Semantic Drift\" and \"Lost in the Middle\" phenomena. By forcing AI into structured, category-constrained outputs, the framework securely extracts the \"Long Tail\" of scientific data (thermodynamics, infrastructure limits) that human reviewers often miss. In design-science terms, this constitutes a framework-governed toolkit for epistemically validated decision support in fleet energy transition."
+    },
+    {
+      "index": 282,
+      "text": "The Neuro-Symbolic Handoff (in Operations Research terms, a constraint-validation step) (Resolving the Trust Paradox):The formalisation of a safety bridge connecting stochastic text generation to hard mathematics. This research concludes that while AI cannot be trusted as an open-ended oracle for state-of-the-art decision-making, it can be safely used as an epistemic compiler. The extracted \"atomic facts\" will be translated into the rigid mathematical constraints required for Operations Research."
+    },
+    {
+      "index": 283,
+      "text": "High-TRL Operational Validation (The 500-Vehicle Fleet Testbed):The ultimate conclusion of this research is the empirical proof that academic literature, when compiled through DSAiVE and passed through the Neuro-Symbolic Handoff, can safely route real-world operations. The integration of literature-derived constraints (regarding alternatives like methanol, hydrogen, and EVs) into Variable Neighbourhood Search (VNS) algorithms and predictive maintenance models for a 500-vehicle corporate fleet will demonstrate a tangible bridge between academic sustainability goals (SDGs 7, 9, 11, 13) and highly efficient, real-world corporate logistics."
+    },
+    {
+      "index": 284,
+      "text": "To keep the evidentiary weight of each result explicit, the contributions of this thesis are classified below by the type of evidence supporting them."
+    },
+    {
+      "index": 285,
+      "text": "SDG expert survey - statistical-empirical: 478 abstracts classified, 118 independent author validations, precision 0.85 in the high-relevance category."
+    },
+    {
+      "index": 286,
+      "text": "Semantic Drift - definitional-conceptual: the 770,000-token Thread Categorised History Report is a single-researcher longitudinal symptom indicator, not a statistically significant measure; a scoped grounding pilot is planned (Section 3.3.5)."
+    },
+    {
+      "index": 287,
+      "text": "Handoff taxonomy - methodological-design target: presented as a graded progression from simple to complex constraint validation (Chapter 4)."
+    },
+    {
+      "index": 288,
+      "text": "RRC index and fleet applications - design-science demonstrations: evaluated by utility and communicability to the fleet operator, not by statistical inference (design-science evaluation criteria following Peffers et al., 2007; Gregor and Jones, 2007)."
+    },
+    {
+      "index": 289,
+      "text": "This classification is deliberate: design-science research legitimately claims utility, not statistical generality, and the thesis does not ask its demonstrations to carry more evidentiary weight than their type permits."
+    },
+    {
+      "index": 290,
+      "text": "Research Plan and Deliverables"
+    },
+    {
+      "index": 291,
+      "text": "The project timeline spans from September 2024 to August 2027 and is structured around four primary tasks that transition the research from academic theory to corporate application."
+    },
+    {
+      "index": 292,
+      "text": "Figure 7 - Project tasks and deliverables timeline"
+    },
+    {
+      "index": 293,
+      "text": "The project deliverables (D1-D6) are strictly aligned with the four tasks outlined in Chapter 3. Tasks 1 and 2 are primarily developed within the academic environment, establishing the epistemic and mathematical foundation. Tasks 3 and 4 are heavily integrated into the non-academic corporate environment, ensuring that the theoretical models are stress-tested against the operational constraints of the partner institution. The recent productisation of managed agent infrastructures provides a scalable execution layer for these tasks, allowing the research to focus on epistemic validation rather than low-level software orchestration. The quota-optimisation and multi-agent orchestration work is accordingly not a side project but the third layer of the same reliability question: after output reliability (Semantic Drift and the epistemic compiler) and handoff reliability (the Sandbox constraint-validation loop), process reliability under resource constraints, meaning whether validated decision pipelines can be sustained within finite computational quota at the scale of routine fleet operations. Future work may also examine whether the Operations Research tradition of per-instance method selection offers a candidate lens for retrieval-governance research."
+    },
+    {
+      "index": 294,
+      "text": "D1: Systematic Literature Review (M1): Completion of the DSAiVE-assisted literature extraction."
+    },
+    {
+      "index": 295,
+      "text": "D2: Ecosystem Map (M2): Parameterisation of the extracted data into operational constraints (partially developed in a non-academic environment)."
+    },
+    {
+      "index": 296,
+      "text": "D3: MCDM - e-fuels, criteria, and attributes (M3): Definition of the evaluation criteria for alternative fuels (mainly developed in a non-academic environment)."
+    },
+    {
+      "index": 297,
+      "text": "D4: MCDM - qualitative weighting of attributes (M4): Application of the Neuro-Symbolic Handoff to establish operational rules (mainly developed in a non-academic environment)."
+    },
+    {
+      "index": 298,
+      "text": "D5: MCDM - model development (M5): Execution of the Tri-State Routing and predictive maintenance models on the 500-vehicle fleet (partially developed in a non-academic environment)."
+    },
+    {
+      "index": 299,
+      "text": "D6: Validation and dissertation report (M6): Final synthesis of the operational results and academic contributions."
+    },
+    {
+      "index": 300,
+      "text": "Funding and Acknowledgements"
+    },
+    {
+      "index": 301,
+      "text": "This research is supported by the Fundação para a Ciência e a Tecnologia (FCT) under the grant agreement [Insert Grant Number Here]. The development of the high-TRL operational testbed is made possible through a non-academic partnership with upK, whose provision of real-world fleet telemetry and logistical data is fundamental to validating the proposed decision-support framework."
+    },
+    {
+      "index": 302,
+      "text": "References"
+    },
+    {
+      "index": 303,
+      "text": "[1] “Adélio Mendes – The 9th International Hydrogen Technologies Congress – IHTEC 2025.” Accessed: Mar. 18, 2025. [Online]. Available: https://ihtec2025.org/adelio-mendes/"
+    },
+    {
+      "index": 304,
+      "text": "[2] Y. Houndonougbo, “Molecular simulation of carbon capture in a series of isoreticular zeolitic imidazolate materials,” ACS Symposium Series, vol. 1132, pp. 83–98, 2013, doi: 10.1021/BK-2013-1132.CH003."
+    },
+    {
+      "index": 305,
+      "text": "[3] “Energy decarbonization: a story inspired by nature.” Accessed: Mar. 18, 2025. [Online]. Available: https://pse.kaust.edu.sa/current-faculty-staff/2023/11/07/default-calendar/energy-decarbonization-a-story-inspired-by-nature"
+    },
+    {
+      "index": 306,
+      "text": "[4] “Regulation - 2019/631 - EN - EUR-Lex.” Accessed: Mar. 18, 2025. [Online]. Available: https://eur-lex.europa.eu/eli/reg/2019/631/oj/eng"
+    },
+    {
+      "index": 307,
+      "text": "[5] E. Maklári, “Economic comparison between conventionally powered and electric cars,” Acta Academiae Beregsasiensis. Economics, vol. No. 3, no. 3, pp. 75–85, Sep. 2023, doi: 10.58423/2786-6742/2023-3-75-85."
+    },
+    {
+      "index": 308,
+      "text": "[6] “2035 EU combustion ban moves forward with e-fuels agreement.” Accessed: Mar. 18, 2025. [Online]. Available: https://electrek.co/2023/03/25/2035-combustion-ban-moves-forward-germany-eu-reach-agreement-e-fuels/"
+    },
+    {
+      "index": 309,
+      "text": "[7] “Carlos Tavares diz que a UE chegou a um ‘beco sem saída’ nos veículos elétricos porque se esqueceu da ‘dimensão social’ — CNN Portugal.” Accessed: Mar. 18, 2025. [Online]. Available: https://cnnportugal.iol.pt/setor-automovel/automovel/carlos-tavares-diz-que-ue-chegou-a-um-beco-sem-saida-nos-veiculos-eletricos-porque-se-esqueceu-da-dimensao-social/20250127/67980ea2d34e3f0bae99b924"
+    },
+    {
+      "index": 310,
+      "text": "[8] “Energy decarbonization: a story inspired by nature.” Accessed: Mar. 20, 2025. [Online]. Available: https://pse.kaust.edu.sa/current-faculty-staff/2023/11/07/default-calendar/energy-decarbonization-a-story-inspired-by-nature"
+    },
+    {
+      "index": 311,
+      "text": "[9] B. Candemir, J. Hellwig, E. Vignola-Gagné, J.-M. van Schalkwijk, and C. Sealy, “Pathways to Net Zero: The Impact of Clean Energy Research,” Public Reports, Jan. 2021, Accessed: Mar. 18, 2025. [Online]. Available: https://analyticalservices.researchcommons.org/reports/8"
+    },
+    {
+      "index": 312,
+      "text": "[10] M. J. Buehler, “MechGPT, a Language-Based Strategy for Mechanics and Materials Modelling That Connects Knowledge Across Scales, Disciplines, and Modalities,” Appl Mech Rev, vol. 76, no. 2, Mar. 2024, doi: 10.1115/1.4063843/1169582."
+    },
+    {
+      "index": 313,
+      "text": "[11] “How large language models will shape search | THE Campus Learn, Share, Connect.” Accessed: Mar. 20, 2025. [Online]. Available: https://www.timeshighereducation.com/campus/breaking-academic-barriers-large-language-models-and-future-search"
+    },
+    {
+      "index": 314,
+      "text": "[12] “Erbil hosts climate change dialogue, focus on Iraqi journalism’s role - Shafaq News.” Accessed: Mar. 19, 2025. [Online]. Available: https://www.shafaq.com/en/Kurdistan/Erbil-hosts-climate-change-dialogue-focus-on-Iraqi-journalism-s-role"
+    },
+    {
+      "index": 315,
+      "text": "[13] “Weather prediction by numerical process : Richardson, Lewis Fry, 1881-1953 : Free Download, Borrow, and Streaming : Internet Archive.” Accessed: Mar. 18, 2025. [Online]. Available: https://archive.org/details/weatherpredictio00richrich/weatherpredictio00richrich/"
+    },
+    {
+      "index": 316,
+      "text": "[14] G. S. Callendar, “The Artificial Production of Carbon Dioxide and Its Influence on Temperature,” Quarterly Journal of the Royal Meteorological Society, vol. 64, no. 275, pp. 223–240, Apr. 1938, doi: 10.1002/qj.49706427503."
+    },
+    {
+      "index": 317,
+      "text": "[15] “Fossil Fuels | EESI.” Accessed: Mar. 18, 2025. [Online]. Available: https://www.eesi.org/topics/fossil-fuels/description"
+    },
+    {
+      "index": 318,
+      "text": "[16] H. Nordlund, “Energy justice in the development of offshore wind farms on the Åland Islands,” 2023, Accessed: Mar. 18, 2025. [Online]. Available: https://nmbu.brage.unit.no/nmbu-xmlui/handle/11250/3078356"
+    },
+    {
+      "index": 319,
+      "text": "[17] “Frequently Asked Questions | UNEP - UN Environment Program.” Accessed: Mar. 18, 2025. [Online]. Available: https://www.unep.org/topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/frequently-asked"
+    },
+    {
+      "index": 320,
+      "text": "[18] “The Limits to Growth+50 - Club of Rome.” Accessed: Mar. 18, 2025. [Online]. Available: https://www.clubofrome.org/ltg50/"
+    },
+    {
+      "index": 321,
+      "text": "[19] “How to Feed the World in 2050”."
+    },
+    {
+      "index": 322,
+      "text": "[20] F. Umbach, “www.ssoar.info China and Russia: implications for European and transatlantic security Zur Verfügung gestellt in Kooperation mit / provided in cooperation with: SSG Sozialwissenschaften, USB Köln”, Accessed: Mar. 18, 2025. [Online]. Available: www.ssoar.info"
+    },
+    {
+      "index": 323,
+      "text": "[21] “2020 Climate and Energy Package (contains Directive 2009/29/EC, Directive 2009/28/EC, Directive 2009/31/EC, and Decision No. 406/2009/EC of the Parliament and the Council ; see below) - Climate Change Laws of the World.” Accessed: Mar. 19, 2025. [Online]. Available: https://climate-laws.org/document/2020-climate-and-energy-package-contains-directive-2009-29-ec-directive-2009-28-ec-directive-2009-31-ec-and-decision-no-406-2009-ec-of-the-parliament-and-the-council-see-below_c91b"
+    },
+    {
+      "index": 324,
+      "text": "[22] “Power Quality and EMC in Smart Grid.” Accessed: Mar. 20, 2025. [Online]. Available: https://interferencetechnology.com/power-quality-and-emc-in-smart-grid/"
+    },
+    {
+      "index": 325,
+      "text": "[23] F. Müller-Langer et al., “A Report from the Advanced Motor Fuels TCP and IEA Bioenergy TCP Key Strategies in Selected Countries The Role of Renewable Transport Fuels in Decarbonising Road Transport,” 2020."
+    },
+    {
+      "index": 326,
+      "text": "[24] Z. Shi, Y. Qian, J. Zeng, X. Wei, and M. Yang, “Coordinated Development of Urban Transportation Structure Optimization and Energy Conservation, and Emission Reduction Under the Low-Carbon Background in Lanzhou, China,” Systems 2025, Vol. 13, Page 34, vol. 13, no. 1, p. 34, Jan. 2025, doi: 10.3390/SYSTEMS13010034."
+    },
+    {
+      "index": 327,
+      "text": "[25] “Transport infrastructure: A tough road ahead – Gfiles India.” Accessed: Mar. 20, 2025. [Online]. Available: https://gfilesindia.com/transport-infrastructure-a-tough-road-ahead/"
+    },
+    {
+      "index": 328,
+      "text": "[26] C. G. Corlu, R. De La Torre, A. Serrano-Hernandez, A. A. Juan, and J. Faulin, “Optimizing Energy Consumption in Transportation: Literature Review, Insights, and Research Opportunities,” Energies 2020, Vol. 13, Page 1115, vol. 13, no. 5, p. 1115, Mar. 2020, doi: 10.3390/EN13051115."
+    },
+    {
+      "index": 329,
+      "text": "[27] J. S. G. Collazos, L. M. C. Ardila, and C. J. F. Cardona, “Energy transition in sustainable transport: concepts, policies, and methodologies,” Environmental Science and Pollution Research 2024 31:49, vol. 31, no. 49, pp. 58669–58686, Sep. 2024, doi: 10.1007/S11356-024-34862-X."
+    },
+    {
+      "index": 330,
+      "text": "[28] “Energy use basics - Energy Kids: U.S. Energy Information Administration (EIA).” Accessed: Mar. 17, 2025. [Online]. Available: https://www.eia.gov/kids/using-and-saving-energy/energy-use-basics.php"
+    },
+    {
+      "index": 331,
+      "text": "[29] R. C. Duncan, “World Energy Production, Population Growth, and the Road to the Olduvai Gorge,” Population and Environment: A Journal of Interdisciplinary Studies, vol. 22, no. 5, 2001."
+    },
+    {
+      "index": 332,
+      "text": "[30] A. O. M. Maka and M. Mehmood, “Green hydrogen energy production: current status and potential,” Clean Energy, vol. 8, no. 2, pp. 1–7, Apr. 2024, doi: 10.1093/CE/ZKAE012."
+    },
+    {
+      "index": 333,
+      "text": "[31] V. Kalchschmid, V. Erhart, K. Angerer, S. Roth, and A. Hohmann, “Decentral Production of Green Hydrogen for Energy Systems: An Economically and Environmentally Viable Solution for Surplus Self-Generated Energy in Manufacturing Companies?” Feb. 2023, Accessed: Mar. 20, 2025. [Online]. Available: https://www.h2knowledgecentre.com/content/journal4404"
+    },
+    {
+      "index": 334,
+      "text": "[32] “Potential of Solar Thermal in Europe”."
+    },
+    {
+      "index": 335,
+      "text": "[33] I. Dincer, “Energy and Environmental Impacts: Present and Future Perspectives,” ENERGY SOURCES, vol. 20, pp. 427–453, 1998, doi: 10.1080/00908319808970070."
+    },
+    {
+      "index": 336,
+      "text": "[34] A. Sofia e G. Madeira, “UNIVERSIDADE NOVA DE LISBOA INTEGRAÇÃO DE PAINÉIS SOLARES TÉRMICOS: SOLUÇÕES DE PÓS-CONSTRUÇÃO”."
+    },
+    {
+      "index": 337,
+      "text": "[35] “Portugal: Sun & Innovation Drive Change,” Portugal: Sun & Innovation Drive Change. Accessed: Mar. 17, 2025. [Online]. Available: https://www.iea-shc.org/Data/Sites/1/publications/2018-12-Country-Highlight-Portugal.pdf"
+    },
+    {
+      "index": 338,
+      "text": "[36]Portal das Energias Renováveis ::.” Accessed Mar. 17, 2025. [Online]. Available: https://energiasrenovaveis.com/DetalheNoticias.asp?ID_conteudo=279&ID_area=53"
+    },
+    {
+      "index": 339,
+      "text": "[37] L. Silva and S. Sareen, “Solar Photovoltaic Energy Infrastructures, Land Use and Sociocultural Context in Portugal”, doi: 10.1080/13549839.2020.1837091."
+    },
+    {
+      "index": 340,
+      "text": "[38] “IEA SHC || Advanced Publication Search.” Accessed: Mar. 18, 2025. [Online]. Available: https://www.iea-shc.org/publications-search"
+    },
+    {
+      "index": 341,
+      "text": "[39] “Portugal: Market Players facing Serious Problems | Solarthermalworld.” Accessed: Mar. 18, 2025. [Online]. Available: https://solarthermalworld.org/news/portugal-market-players-facing-serious-problems/"
+    },
+    {
+      "index": 342,
+      "text": "[40] “Portugal: Market Transformation in Time of Crisis | Solarthermalworld.” Accessed: Mar. 18, 2025. [Online]. Available: https://solarthermalworld.org/news/portugal-market-transformation-time-crisis/"
+    },
+    {
+      "index": 343,
+      "text": "[41] “Austria: Solar Thermal Market on the Verge of Collapse in one Province | Solarthermalworld.” Accessed: Mar. 17, 2025. [Online]. Available: https://solarthermalworld.org/news/austria-solar-thermal-market-verge-collapse-one-province/"
+    },
+    {
+      "index": 344,
+      "text": "[42] “Austria: Tough Competition in a Shrinking Market | Solarthermalworld.” Accessed: Mar. 17, 2025. [Online]. Available: https://solarthermalworld.org/news/austria-tough-competition-shrinking-market/"
+    },
+    {
+      "index": 345,
+      "text": "[43] P. Lourenço and C. Almeida, “Production under feed-in tariffs in Portugal,” p. 4, 2017, doi: 10.24084/repqj15.381."
+    },
+    {
+      "index": 346,
+      "text": "[44] “Feed-In Tariff (FIT): Explanation, History, and Uses.” Accessed: Mar. 19, 2025. [Online]. Available: https://www.investopedia.com/terms/f/feed-in-tariff.asp"
+    },
+    {
+      "index": 347,
+      "text": "[45] “Photovoltaics Report - Fraunhofer ISE.” Accessed: Mar. 19, 2025. [Online]. Available: https://www.ise.fraunhofer.de/en/publications/studies/photovoltaics-report.html"
+    },
+    {
+      "index": 348,
+      "text": "[46] S. Piotrowski, “Critical Raw Materials in the Semiconductor Industry: Current Challenges and Perspectives”, Accessed: Mar. 19, 2025. [Online]. Available: https://www.researchgate.net/publication/371936514"
+    },
+    {
+      "index": 349,
+      "text": "[47] “The Paris Agreement | UNFCCC.” Accessed: Mar. 19, 2025. [Online]. Available: https://unfccc.int/process-and-meetings/the-paris-agreement"
+    },
+    {
+      "index": 350,
+      "text": "[48] “Ecology or Economy – Most preferred one, Bharat cares for both!” Accessed: Mar. 20, 2025. [Online]. Available: https://organiser.org/2023/12/21/212059/bharat/ecology-or-economy-most-preferred-one-bharat-cares-for-both/"
+    },
+    {
+      "index": 351,
+      "text": "[49] M. A. Rosen, “Exergy as a tool for sustainability,” 3rd IASME/WSEAS Int. Conf. on Energy & Environment, no. November, pp. 18–19, 2010, doi: 10.2136/sssaj1991.03615995005500060004x."
+    },
+    {
+      "index": 352,
+      "text": "[50] M. A. Rosen, “Energy Sustainability: A Pragmatic Approach and Illustrations,” Sustainability 2009, Vol. 1, Pages 55-80, vol. 1, no. 1, pp. 55–80, Mar. 2009, doi: 10.3390/SU1010055."
+    },
+    {
+      "index": 353,
+      "text": "[51] “The EU has cut greenhouse gas emissions everywhere but transport | World Economic Forum.” Accessed: Mar. 19, 2025. [Online]. Available: https://www.weforum.org/stories/2022/09/eu-greenhouse-gas-emissions-transport/"
+    },
+    {
+      "index": 354,
+      "text": "[52] “Northwest Energy Flows Analysis | NW Clean Energy Atlas.” Accessed: Mar. 17, 2025. [Online]. Available: https://www.nwceatlas.org/nw-state-energy-flows-additional-analysis-2018"
+    },
+    {
+      "index": 355,
+      "text": "[53] M. Heyns, M. Sinclair, and R. Combrinck, “Greening our road construction: views from the transportation industry in South Africa,” 2023, Accessed: Mar. 17, 2025. [Online]. Available: https://repository.up.ac.za/handle/2263/92506"
+    },
+    {
+      "index": 356,
+      "text": "[54] K. R. Grebstad, “The transition to sustainable aviation in Northern Norway.” Accessed: Mar. 20, 2025. [Online]. Available: https://munin.uit.no/bitstream/handle/10037/28221/thesis.pdf?sequence=2"
+    },
+    {
+      "index": 357,
+      "text": "[55] S. S. V. Subbarao and R. Kadali, “Impact of COVID-19 pandemic lockdown on the public transportation system and strategic plans to improve PT ridership: a review,” Innovative Infrastructure Solutions, vol. 7, no. 1, Feb. 2022, doi: 10.1007/S41062-021-00693-9."
+    },
+    {
+      "index": 358,
+      "text": "[56] “The transition to sustainable aviation in Northern Norway,” 2022."
+    },
+    {
+      "index": 359,
+      "text": "[57] “The Future of Electric Vehicles: Advancements in Batteries, Charging Stations, and Beyond - CEO Weekly.” Accessed: Mar. 19, 2025. [Online]. Available: https://ceoweekly.com/the-future-of-electric-vehicles-advancements/"
+    },
+    {
+      "index": 360,
+      "text": "[58] “The Rich Are Using Private Jets for Short Commutes, Demonstrating the Importance of Sufficiency.” Accessed: Mar. 20, 2025. [Online]. Available: https://www.treehugger.com/private-jet-short-trip-sufficiency-5705843"
+    },
+    {
+      "index": 361,
+      "text": "[59] “Global EV Outlook 2019 – Analysis - IEA.” Accessed: Mar. 19, 2025. [Online]. Available: https://www.iea.org/reports/global-ev-outlook-2019"
+    },
+    {
+      "index": 362,
+      "text": "[60] C. L. Spash, “A tale of three paradigms: Realising the revolutionary potential of ecological economics,” 2019, doi: 10.1016/j.ecolecon.2019.106518."
+    },
+    {
+      "index": 363,
+      "text": "[61] K. Mayumi, “The Origins of Ecological Economics : The Bioeconomics of Georgescu-Roegen,” The Origins of Ecological Economics, Jul. 2001, doi: 10.4324/9780203468708."
+    },
+    {
+      "index": 364,
+      "text": "[62] A. Dunlap, J. Verweijen, and C. Tornel, “The political ecologies of ‘green’ extractivism(s): An introduction,” J Polit Ecol, vol. 31, no. 1, pp. 436–463, Jul. 2024, doi: 10.2458/JPE.6131."
+    },
+    {
+      "index": 365,
+      "text": "[63] “Sustainable urban mobility planning and monitoring - European Commission.” Accessed: Mar. 19, 2025. [Online]. Available: https://transport.ec.europa.eu/transport-themes/urban-transport/sustainable-urban-mobility-planning-and-monitoring_en"
+    },
+    {
+      "index": 366,
+      "text": "[64] P. Jiménez, D. María-Dolores, and S. Beltrán, “An Integrative and Sustainable Workplace Mobility Plan: The Case Study of Navantia-Cartagena (Spain),” Sustainability 2020, Vol. 12, Page 10301, vol. 12, no. 24, p. 10301, Dec. 2020, doi: 10.3390/SU122410301."
+    },
+    {
+      "index": 367,
+      "text": "[65] S. Baltazar, L. Barreto, and A. Amaral, “Future Mobility in Alto Minho Region,” 2018 IEEE International Conference on Engineering, Technology and Innovation, ICE/ITMC 2018 - Proceedings, Aug. 2018, doi: 10.1109/ICE.2018.8436371."
+    },
+    {
+      "index": 368,
+      "text": "[66] J. Black and H. Nakanishi, “Towards Net-Zero Emissions from Urban Transport: Ex Post Policy Evaluation in Canberra, the Australian Capital Territory,” Sustainability 2024, Vol. 16, Page 8656, vol. 16, no. 19, p. 8656, Oct. 2024, doi: 10.3390/SU16198656."
+    },
+    {
+      "index": 369,
+      "text": "[67] “Droughts - ClimateChangePost.” Accessed: Mar. 17, 2025. [Online]. Available: https://www.climatechangepost.com/countries/poland/droughts/"
+    },
+    {
+      "index": 370,
+      "text": "[68] “Hydrogen: Frequent Questions and Answers - H2 IQ - what you need to know.” Accessed: Mar. 17, 2025. [Online]. Available: https://h2iq.org/hydrogen-facts/"
+    },
+    {
+      "index": 371,
+      "text": "[69] “Volkswagen starts operation of $22M North American Battery Engineering Lab in Chattanooga - Green Car Congress.” Accessed: Mar. 17, 2025. [Online]. Available: https://www.greencarcongress.com/2022/06/20220609-bel.html"
+    },
+    {
+      "index": 372,
+      "text": "[70] D. McCollum, V. Krey, P. Kolp, Y. Nagai, and K. Riahi, “Transport electrification: A key element for energy system transformation and climate stabilisation,” Clim Change, vol. 123, no. 3–4, pp. 651–664, Oct. 2014, doi: 10.1007/S10584-013-0969-Z/FIGURES/3."
+    },
+    {
+      "index": 373,
+      "text": "[71] S. Asiaban et al., “Wind and Solar Intermittency and the Associated Integration Challenges: A Comprehensive Review Including the Status in the Belgian Power System,” Energies 2021, Vol. 14, Page 2630, vol. 14, no. 9, p. 2630, May 2021, doi: 10.3390/EN14092630."
+    },
+    {
+      "index": 374,
+      "text": "[72] “The Hard Truth About Switching to Renewables - It’s Going to Take Decades.” Accessed: Mar. 19, 2025. [Online]. Available: https://constrofacilitator.com/the-hard-truth-about-switching-to-renewables-its-going-to-take-decades/"
+    },
+    {
+      "index": 375,
+      "text": "[73] G. E. Halkos and E. C. Gkampoura, “Reviewing Usage, Potentials, and Limitations of Renewable Energy Sources,” Energies 2020, Vol. 13, Page 2906, vol. 13, no. 11, p. 2906, Jun. 2020, doi: 10.3390/EN13112906."
+    },
+    {
+      "index": 376,
+      "text": "[74] J. B. Jarin, S. Beddok, and C. Haritchabalet, “Techno-Economic Comparison of Low-Carbon Energy Carriers Based on Electricity for Air Mobility,” Energies 2024, Vol. 17, Page 1151, vol. 17, no. 5, p. 1151, Feb. 2024, doi: 10.3390/EN17051151."
+    },
+    {
+      "index": 377,
+      "text": "[75] Q. Hassan, S. Algburi, A. Z. Sameen, M. Jaszczur, and H. M. Salman, “Hydrogen as an energy carrier: properties, storage methods, challenges, and future implications,” Environ Syst Decis, vol. 44, no. 2, pp. 327–350, Jun. 2024, doi: 10.1007/S10669-023-09932-Z/FIGURES/7."
+    },
+    {
+      "index": 378,
+      "text": "[76] L. S. Langston, “Hot Pursuit,” Mechanical Engineering, vol. 144, no. 6, pp. 38–43, Nov. 2022, doi: 10.1115/1.2022-NOV3."
+    },
+    {
+      "index": 379,
+      "text": "[77] M. Calabrese et al., “Hydrogen Safety Challenges: A Comprehensive Review on Production, Storage, Transport, Utilization, and CFD-Based Consequence and Risk Assessment,” Energies 2024, Vol. 17, Page 1350, vol. 17, no. 6, p. 1350, Mar. 2024, doi: 10.3390/EN17061350."
+    },
+    {
+      "index": 380,
+      "text": "[78] M. R. , B. G. , S. A. , S. A. , C.-R. Y. , M. T. , & S. K. Allazadeh, “The UK Hydrogen Innovation Opportunity : Hydrogen Technology Roadmaps - CORE Reader.” Accessed: Mar. 17, 2025. [Online]. Available: https://core.ac.uk/reader/613714040"
+    },
+    {
+      "index": 381,
+      "text": "[79] “Guidelines for using Methanol in Fertilizer Manufacturing Process.” Accessed: Mar. 17, 2025. [Online]. Available: https://www.metacorp.in/blog/guidelines-for-using-methanol-in-indian-fertilizer-manufacturing-process"
+    },
+    {
+      "index": 382,
+      "text": "[80] H. Ameli, G. Strbac, D. Pudjianto, and M. T. Ameli, “A Review of the Role of Hydrogen in the Heat Decarbonization of Future Energy Systems: Insights and Perspectives,” Energies 2024, Vol. 17, Page 1688, vol. 17, no. 7, p. 1688, Apr. 2024, doi: 10.3390/EN17071688."
+    },
+    {
+      "index": 383,
+      "text": "[81] K. Müller, F. Fabisch, and W. Arlt, “Energy transport and storage using methanol as a carrier,” Green, vol. 4, no. 1–6, pp. 19–25, Dec. 2014, doi: 10.1515/GREEN-2013-0028/MACHINEREADABLECITATION/RIS."
+    },
+    {
+      "index": 384,
+      "text": "[82] “18.8: Gibbs Energy Changes in Chemical Reactions - Chemistry LibreTexts.” Accessed: Mar. 19, 2025. [Online]. Available: https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_%28Tro%29/18%3A_Gibbs_Energy_and_Thermodynamics/18.08%3A_Gibbs_Energy_Changes_in_Chemical_Reactions"
+    },
+    {
+      "index": 385,
+      "text": "[83] “GCh18-2”."
+    },
+    {
+      "index": 386,
+      "text": "[84] “Dimethyl Ether Market Analysis | Industry Forecast, Size & Report.” Accessed: Mar. 17, 2025. [Online]. Available: https://www.mordorintelligence.com/industry-reports/dimethyl-ether-market"
+    },
+    {
+      "index": 387,
+      "text": "[85] “Alternative Fuels Data Center: Dimethyl Ether.” Accessed: Mar. 20, 2025. [Online]. Available: https://afdc.energy.gov/fuels/emerging-dme"
+    },
+    {
+      "index": 388,
+      "text": "[86] “Vancity Group powers BC’s first hydrogen fuel network. - Vancity.” Accessed: Mar. 17, 2025. [Online]. Available: https://rethink.vancity.com/actions/first-hydrogen-fuel-network-in-bc"
+    },
+    {
+      "index": 389,
+      "text": "[87] M. Al-Breiki and Y. Bicer, “Comparative life cycle assessment of sustainable energy carriers including production, storage, overseas transport and utilization,” J Clean Prod, vol. 279, 2021, doi: 10.1016/j.jclepro.2020.123481."
+    },
+    {
+      "index": 390,
+      "text": "[88] L. Meng and J. Asuka, “Impacts of Energy Transition on Life Cycle Carbon Emission and Water Consumption in Japan’s Electric Sector,” Sustainability (Switzerland), vol. 14, no. 9, p. 5413, May 2022, doi: 10.3390/SU14095413/S1."
+    },
+    {
+      "index": 391,
+      "text": "[89] M. H. Hasan et al., “A comprehensive review on the recent development of ammonia as a renewable energy carrier,” 2021. doi: 10.3390/en14133732."
+    },
+    {
+      "index": 392,
+      "text": "[90] S. Chatterjee, R. K. Parsapur, and K. W. Huang, “Limitations of Ammonia as a Hydrogen Energy Carrier for the Transportation Sector,” ACS Energy Lett, vol. 6, no. 12, pp. 4390–4394, Jan. 2021, doi: 10.1021/ACSENERGYLETT.1C02189."
+    },
+    {
+      "index": 393,
+      "text": "[91] P. Zhang and Q. Jin, “Evolution, status, and trends of exergy research: a systematic analysis during 1997–2020,” Environmental Science and Pollution Research 2022 29:49, vol. 29, no. 49, pp. 73769–73794, Sep. 2022, doi: 10.1007/S11356-022-22915-Y."
+    },
+    {
+      "index": 394,
+      "text": "[92] Z. Barahmand and M. S. Eikeland, “Techno-Economic and Life Cycle Cost Analysis through the Lens of Uncertainty: A Scoping Review,” Sustainability 2022, Vol. 14, Page 12191, vol. 14, no. 19, p. 12191, Sep. 2022, doi: 10.3390/SU141912191."
+    },
+    {
+      "index": 395,
+      "text": "[93] M. Z. Hauschild, R. K. Rosenbaum, and S. I. Olsen, “Life Cycle Assessment: Theory and Practice,” Life Cycle Assessment: Theory and Practice, pp. 1–1216, Sep. 2017, doi: 10.1007/978-3-319-56475-3/COVER."
+    },
+    {
+      "index": 396,
+      "text": "[94] M. C. Potter and E. P. Scott, “The First Law of Thermodynamics,” Thermal Sciences, pp. 74–143, 2025, doi: 10.1007/978-3-031-63669-1_4."
+    },
+    {
+      "index": 397,
+      "text": "[95] M. C. Potter and E. P. Scott, “The Second Law of Thermodynamics,” Thermal Sciences, pp. 144–189, 2025, doi: 10.1007/978-3-031-63669-1_5."
+    },
+    {
+      "index": 398,
+      "text": "[96] P. C. Augustine, A. Moniri-Morad, M. Shahsavar, and J. Sattarvand, “Investigating the Effect of Human Factors on the Underground Mine Evacuation Process Using Agent-Based Simulation,” Applied Sciences 2024, Vol. 14, Page 11773, vol. 14, no. 24, p. 11773, Dec. 2024, doi: 10.3390/APP142411773."
+    },
+    {
+      "index": 399,
+      "text": "[97] J. Qingyang, Y. Jichun, Z. Yanying, and F. Huide, “Energy and exergy analyses of PV, solar thermal and photovoltaic/thermal systems: a comparison study,” International Journal of Low-Carbon Technologies, vol. 16, no. 2, pp. 604–611, May 2021, doi: 10.1093/IJLCT/CTAA092."
+    },
+    {
+      "index": 400,
+      "text": "[98] E. Toklu, M. S. Güney, M. Işik, O. Comakli, and K. Kaygusuz, “Energy production, consumption, policies and recent developments in Turkey,” Renewable & Sustainable Energy Reviews, vol. 14, no. 4, pp. 1172–1186, May 2010, doi: 10.1016/J.RSER.2009.12.006."
+    },
+    {
+      "index": 401,
+      "text": "[99] A. Ostrovsky, “Total factor productivity: Lessons from the past and directions for the future,” 2014, Accessed: Mar. 20, 2025. [Online]. Available: https://www.econstor.eu/handle/10419/144483"
+    },
+    {
+      "index": 402,
+      "text": "[100] J. Santos, A. S. Borges, and T. Domingos, “Exploring the links between total factor productivity and energy efficiency: Portugal, 1960–2014,” Energy Econ, vol. 101, p. 105407, Sep. 2021, doi: 10.1016/J.ENECO.2021.105407."
+    },
+    {
+      "index": 403,
+      "text": "[101] E. E. Michaelides, “Primary energy use and environmental effects of electric vehicles,” World Electric Vehicle Journal, vol. 12, no. 3, 2021, doi: 10.3390/WEVJ12030138."
+    },
+    {
+      "index": 404,
+      "text": "[102] C. : Broniewicz, E. ; Ogrodnik, R. Di Pace, and H. Kiryluk, “A Comparative Evaluation of Multi-Criteria Analysis Methods for Sustainable Transport,” Energies 2021, Vol. 14, Page 5100, vol. 14, no. 16, p. 5100, Aug. 2021, doi: 10.3390/EN14165100."
+    },
+    {
+      "index": 405,
+      "text": "[103] B. Moutik, J. Summerscales, J. Graham-Jones, and R. Pemberton, “Life Cycle Assessment Research Trends and Implications: A Bibliometric Analysis,” Sustainability 2023, Vol. 15, Page 13408, vol. 15, no. 18, p. 13408, Sep. 2023, doi: 10.3390/SU151813408."
+    },
+    {
+      "index": 406,
+      "text": "[104] “What is Cost-Benefit Analysis? | DealHub.” Accessed: Mar. 20, 2025. [Online]. Available: https://dealhub.io/glossary/cost-benefit-analysis/"
+    },
+    {
+      "index": 407,
+      "text": "[105] T. Roe, “Optimal Cost-Benefit Analysis of Urban Transportation Systems: Its Use in Policy Implementation,” Staff Papers, Jan. 1971, Accessed: Mar. 20, 2025. [Online]. Available: https://www.academia.edu/48761239/Optimal_Cost_Benefit_Analysis_of_Urban_Transportation_Systems_Its_Use_in_Policy_Implementation"
+    },
+    {
+      "index": 408,
+      "text": "[106] T. Vagdatli and K. Petroutsatou, “Modelling Approaches of Life Cycle Cost-Benefit Analysis of Road Infrastructure: A Critical Review and Future Directions,” 2022, doi: 10.3390/buildings13010094."
+    },
+    {
+      "index": 409,
+      "text": "[107] K. Gharehbaghi, “The predicaments of environmental impact assessment (EIA) for transport infrastructure: an examination of policy stagnation and progress,” Transforming Government: People, Process and Policy, Sep. 2022, Accessed: Mar. 19, 2025. [Online]. Available: https://www.academia.edu/119718710/The_predicaments_of_environmental_impact_assessment_EIA_for_transport_infrastructure_an_examination_of_policy_stagnation_and_progress"
+    },
+    {
+      "index": 410,
+      "text": "[108] R. Mahmud, S. M. Moni, K. High, and M. Carbajales-Dale, “Integration of techno-economic analysis and life cycle assessment for sustainable process design – A review,” J Clean Prod, vol. 317, p. 128247, Oct. 2021, doi: 10.1016/J.JCLEPRO.2021.128247."
+    },
+    {
+      "index": 411,
+      "text": "[109] P. Sarthi, S. Abdullah, A. Tuli, S. Khanna, A. Goldie, and C. D. Manning, “RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval,” 12th International Conference on Learning Representations, ICLR 2024, Jan. 2024, Accessed: Mar. 19, 2025. [Online]. Available: https://arxiv.org/abs/2401.18059v1"
+    },
+    {
+      "index": 412,
+      "text": "[110] J. Hansson, S. Månsson, S. Brynolf, and M. Grahn, “Alternative marine fuels: Prospects based on multi-criteria decision analysis involving Swedish stakeholders,” Biomass Bioenergy, vol. 126, pp. 159–173, 2019, doi: 10.1016/j.biombioe.2019.05.008."
+    },
+    {
+      "index": 413,
+      "text": "[111] D. McFadden, “Conditional logit analysis of qualitative choice behavior,” Jan. 01, 1972. Accessed: Mar. 20, 2025. [Online]. Available: https://www.academia.edu/53553324/Conditional_logit_analysis_of_qualitative_choice_behavior"
+    },
+    {
+      "index": 414,
+      "text": "[112] M. Sheller and J. Urry, “The New Mobilities Paradigm,” Environ Plan A, vol. 38, no. 2, pp. 207–226, Feb. 2006, doi: 10.1068/A37268."
+    },
+    {
+      "index": 415,
+      "text": "[113] M. Barth and K. Boriboonsomsin, “Real-World Carbon Dioxide Impacts of Traffic Congestion,” Transp Res Rec, no. 2058, pp. 163–171, 2008, doi: 10.3141/2058-20."
+    },
+    {
+      "index": 416,
+      "text": "[114] D. Banister, “The sustainable mobility paradigm,” Transp Policy (Oxf), vol. 15, no. 2, pp. 73–80, Mar. 2008, doi: 10.1016/J.TRANPOL.2007.10.005."
+    },
+    {
+      "index": 417,
+      "text": "[115] V. Kaushik, L. A. Swagatika Priyadarshini, and R. Kataria, “Renewable Energy, Alternative Fuels, and Technological Innovations for Sustainable Development,” pp. 321–352, 2025, doi: 10.1007/978-981-96-0535-4_15."
+    },
+    {
+      "index": 418,
+      "text": "[116] J. M. Ogden, “Alternative fuels and prosects - overview,” Handbook of Fuel Cells, Dec. 2010, doi: 10.1002/9780470974001.F301001."
+    },
+    {
+      "index": 419,
+      "text": "[117] M. Ouzzani, H. Hammady, Z. Fedorowicz, and A. Elmagarmid, “Rayyan - a web and mobile app for systematic reviews,” Syst Rev, vol. 5, no. 1, p. 210, Dec. 2016, doi: 10.1186/s13643-016-0384-4."
+    },
+    {
+      "index": 420,
+      "text": "[118] B. D. Ghorbani, “Bibliometrix: Science Mapping Analysis with R Biblioshiny Based on Web of Science in Applied Linguistics,” A Scientometrics Research Perspective in Applied Linguistics, pp. 197–234, 2024, doi: 10.1007/978-3-031-51726-6_8."
+    },
+    {
+      "index": 421,
+      "text": "[119] Y. Chang, K. Lo, T. Goyal, and M. Iyyer, “BooookScore: A systematic exploration of book-length summarization in the era of LLMs,” 12th International Conference on Learning Representations, ICLR 2024, Oct. 2023, Accessed: Mar. 19, 2025. [Online]. Available: https://arxiv.org/abs/2310.00785v4"
+    },
+    {
+      "index": 422,
+      "text": "[120] T. Goyal, J. J. Li, and G. Durrett, “News Summarization and Evaluation in the Era of GPT-3,” Sep. 2022, Accessed: Mar. 19, 2025. [Online]. Available: https://arxiv.org/abs/2209.12356v2"
+    },
+    {
+      "index": 423,
+      "text": "[121] N. F. Liu et al., “Lost in the Middle: How Language Models Use Long Contexts,” Trans Assoc Comput Linguist, vol. 12, pp. 157–173, Jul. 2023, doi: 10.1162/tacl_a_00638."
+    },
+    {
+      "index": 424,
+      "text": "[122] G. Sundaram and D. Berleant, “Automating Systematic Literature Reviews with Natural Language Processing and Text Mining: a Systematic Literature Review,” Lecture Notes in Networks and Systems, vol. 693 LNNS, pp. 73–92, Nov. 2022, doi: 10.1007/978-981-99-3243-6_7."
+    },
+    {
+      "index": 425,
+      "text": "[123] Z. Xu, S. Jain, and M. Kankanhalli, “Hallucination is Inevitable: An Innate Limitation of Large Language Models,” Jan. 2024, Accessed: Mar. 19, 2025. [Online]. Available: https://arxiv.org/abs/2401.11817v2"
+    },
+    {
+      "index": 426,
+      "text": "[124] J. Sun et al., “Evaluating large language models on controlled generation tasks,” 2023. Accessed: Mar. 19, 2025. [Online]. Available: https://www.amazon.science/publications/evaluating-large-language-models-on-controlled-generation-tasks"
+    },
+    {
+      "index": 427,
+      "text": "[125] M. Aria and C. Cuccurullo, “bibliometrix: An R-tool for comprehensive science mapping analysis,” J Informetr, vol. 11, no. 4, pp. 959–975, Nov. 2017, doi: 10.1016/J.JOI.2017.08.007."
+    },
+    {
+      "index": 428,
+      "text": "[126] A. Hannousse, “Searching relevant papers for software engineering secondary studies: Semantic Scholar coverage and identification role,” IET Software, vol. 15, no. 1, pp. 126–146, 2021, doi: 10.1049/sfw2.12011."
+    },
+    {
+      "index": 429,
+      "text": "[127] M. Springstein, H. H. Nguyen, A. Hoppe, and R. Ewerth, “TIB-arXiv: An Alternative Search Portal for the arXiv Pre-print Server,” Digital Libraries for Open Knowledge, Tpdl 2018, vol. 11057, pp. 295–298, 2018, doi: 10.1007/978-3-030-00066-0_26."
+    },
+    {
+      "index": 430,
+      "text": "[128] J. M. Nicholson et al., “scite: A smart citation index that displays the context of citations and classifies their intent using deep learning,” Quantitative Science Studies, vol. 2, no. 3, pp. 882–898, 2021, doi: 10.1162/qss_a_00146."
+    },
+    {
+      "index": 431,
+      "text": "[129] V. Cole and M. Boutet, “ResearchRabbit (product review),” Journal of the Canadian Health Libraries Association / Journal de l’Association des bibliothèques de la santé du Canada, vol. 44, no. 2, pp. 43–47, Aug. 2023, doi: 10.29173/jchla29699."
+    },
+    {
+      "index": 432,
+      "text": "[130] E. Aguilera Cora, C. Lopezosa, and L. Codina, “Scopus AI Beta: functional analysis and cases,” Jan. 09, 2024. Accessed: Mar. 19, 2025. [Online]. Available: http://hdl.handle.net/10230/58658"
+    },
+    {
+      "index": 433,
+      "text": "[131] “Navigators - PubTrawlr.” Accessed: Mar. 19, 2025. [Online]. Available: https://www.pubtrawlr.com/newsletter-as-a-service/"
+    },
+    {
+      "index": 434,
+      "text": "[Online]. Available: https://gemini.google.com/share/4110f30fae2a"
+    },
+    {
+      "index": 435,
+      "text": "[133] “Alternatives to Fossil Fuels.” Accessed: Mar. 18, 2025. [Online]. Available: https://chatgpt.com/share/67d4c757-bb10-800f-9c61-1cc75dd5b1d4"
+    },
+    {
+      "index": 436,
+      "text": "[134] “João Oliveira (@JooOliv86653062) / X.” Accessed: Mar. 19, 2025. [Online]. Available: https://x.com/JooOliv86653062"
+    },
+    {
+      "index": 437,
+      "text": "[135] P. Sarthi, S. Abdullah, A. Tuli, S. Khanna, A. Goldie, and C. D. Manning, “RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval,” Jan. 2024."
+    },
+    {
+      "index": 438,
+      "text": "[136] S. Sun, K. Krishna, A. Mattarella-Micke, and M. Iyyer, “Do Long-Range Language Models Actually Use Long-Range Context?,” EMNLP 2021 - 2021 Conference on Empirical Methods in Natural Language Processing, Proceedings, pp. 807–822, 2021, doi: 10.18653/V1/2021.EMNLP-MAIN.62."
+    },
+    {
+      "index": 439,
+      "text": "[137] K. S. Jones, “A statistical interpretation of term specificity and its application in retrieval,” Journal of Documentation, vol. 28, no. 1, pp. 11–21, 1972, doi: 10.1108/EB026526/FULL/XML."
+    },
+    {
+      "index": 440,
+      "text": "[138] X. Chen and S. Wiseman, “BM25 Query Augmentation Learned End-to-End”, Accessed: Mar. 19, 2025. [Online]. Available: https://github.com/"
+    },
+    {
+      "index": 441,
+      "text": "[139] “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | Patrick Lewis.” Accessed: Mar. 19, 2025. [Online]. Available: https://www.patricklewis.io/publication/rag/"
+    },
+    {
+      "index": 442,
+      "text": "[140] “GitHub - run-llama/llama_index: LlamaIndex is the leading framework for building LLM-powered agents over your data.” Accessed: Mar. 19, 2025. [Online]. Available: https://github.com/run-llama/llama_index"
+    },
+    {
+      "index": 443,
+      "text": "[141] O. James Oguntuase, “Climate Change, Credit Risk and Financial Stability,” Banking and Finance, Dec. 2020, doi: 10.5772/INTECHOPEN.93304."
+    },
+    {
+      "index": 444,
+      "text": "[142] “(PDF) Life Cycle Carbon in Our Global Energy Future.” Accessed: Mar. 21, 2025. [Online]. Available: https://www.researchgate.net/publication/370168051_Life_Cycle_Carbon_in_Our_Global_Energy_Future/figures?lo=1"
+    },
+    {
+      "index": 445,
+      "text": "[143] “Evolution of annual solar PV installations and share by segmentation, 2000-2021 – Charts – Data & Statistics - IEA.” Accessed: Mar. 21, 2025. [Online]. Available: https://www.iea.org/data-and-statistics/charts/evolution-of-annual-solar-pv-installations-and-share-by-segmentation-2000-2021"
+    },
+    {
+      "index": 446,
+      "text": "[144] J. Kołodziej, C. Hopmann, G. Coppa, D. Grzonka, and A. Widłak, “Intelligent Transportation Systems – Models, Challenges, Security Aspects,” Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), vol. 13300 LNCS, pp. 56–82, 2022, doi: 10.1007/978-3-031-04036-8_3."
+    },
+    {
+      "index": 447,
+      "text": "[145] “Las tecnologías M2M plantan cara al cambio climático.” Accessed: Mar. 19, 2025. [Online]. Available: https://blogthinkbig.com/las-tecnologias-m2m-plantan-cara-al-cambio-climatico"
+    }
+  ]
+}
